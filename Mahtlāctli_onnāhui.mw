@@ -1,5 +1,5 @@
 <table border=1 style="float: right; border-collapse: collapse;  margin-left:1em;">
-<tr><td colspan=2>{{msg:numbers_10s}}
+<tr><td colspan=2>{{numbers_10s}}
 <tr><td>[[Cardinal]]<td>Mahtlahtlin-nahui
 <tr><td>[[Ordinal]]<td>Ipan-mahtlahtlin-nahui 
 <tr><td>[[Roman numeral]]<td>XIV XIIII
@@ -10,10 +10,10 @@
 
 '''Mahtlahtlin-nahui''' ([[mahtlahtli]] + n + [[nahui]]), '''mactlactlnahui'''.
 
-=={{msg:SeeAlso}}==
+=={{SeeAlso}}==
 *[[Ocelotl]]
 
-=={{msg:Links}}==
+=={{Links}}==
 *[http://www.zompist.com/came.htm zompist.com: Numbers in Central Amerindian Languages]
 *[http://www.geocities.com/a1ma_mia/calendar/mesocal.html Mesoamerican Calendars] See: "TABLE 2. Sign Meanings".
 
