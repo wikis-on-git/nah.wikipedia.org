@@ -21,4 +21,12 @@ Here are general requirements I recommend for any writing in Nahuatl:
 # Syllable-final aspiration is just that.  It may affect the sound of the preceding vowel, but it acts just like any other syllable-final consonant, and should be marked with either an 'h' or a 'j' depending on your preference.
 # Word-final aspiration is extremely confusing in Huasteca Nahuatl (and possibly in other Nahuatl languages).  I do not have a good answer for how to represent it, quite yet.
 
-Is [http://www.omniglot.com/writing/nahuatl.htm this] good? --[[:en:User:Node_ue|Node]]
+I agree that a W should be used instead of an HU (as in classical orthography), trying to keep two letters where one is sufficient as well as more logical and efficient is just trying to keep a Hispanicized orthography where it doesn't really suit the language well. The same goes for using a J instead of an H. to mark aspirants. I would suggest replacing CH with TX (as it is more logical), but I don't know how well received that would be.
+
+Also, I think that macrons are the best idea for long vowels. If we *do* decide to use macrons, you don't have to worry about the keyboard problem because I can create a Windows keyboard layout for the chosen orthography free-of-charge. 
+
+A colon is *not* a good idea, because it would conflict with punctuation and be very confusing because anybody trying to read Nahuatl is most likely either expecting some sort of diacritic above long vowels rather than colons after them.
+
+What exactly is wrong with using an H for word-final aspiration if one uses it for syllable-final aspiration?
+
+Best wishes, [[:en:User:Node_ue|Node]]
