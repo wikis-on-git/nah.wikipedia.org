@@ -1,4 +1,4 @@
-<table border="0" width="82%" cellspacing="0" cellpadding="3"><tr><td width="100%" bgcolor="B12B21"><center><font size="5">Axcan in</font><br><font size="6"> W I K I P E D I A </font><br><font size="4">nochitlamantinamoxtli nahuatlahtolcopa </font><br><br><br>'''Inon in enciclopedia nahuatlahtolcopa,<br>intla cualli tinahuatlahtoa, ma xi ilcahua inon tlahcuilolli.'''</center></td></tr></table>
+<center><table border="0" width="82%" cellspacing="0" cellpadding="3"><tr><td width="100%" bgcolor="B12B21"><center><font size="5">Axcan in</font><br><font size="6"> W I K I P E D I A </font><br><font size="4">nochitlamantinamoxtli nahuatlahtolcopa </font><br><br><br>'''Inon in enciclopedia nahuatlahtolcopa,<br>intla cualli tinahuatlahtoa, ma xi ilcahua inon tlahcuilolli.'''</center></td></tr></table></center>
 ----
 
 <table border="0" width="100%" cellpadding="20px" bordercolor="#808080" bordercolorlight="#FFFFFF" bordercolordark="#808080" bgcolor="#f3f3f3" style="border-width: 1px; border-color: #888888; border-style: solid">
@@ -49,7 +49,7 @@ Para '''buscar ce tlahtoli''' escríbela en la parte superior o inferior de esta
 <tr>
 <td valign="top" align="right">'''Hoy es''':&nbsp;</td>
 <td>
-[[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]]
+[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]]
 </tr>
 </table></div></div>
 
@@ -167,4 +167,4 @@ Para '''buscar ce tlahtoli''' escríbela en la parte superior o inferior de esta
 [http://enciclopedia.us.es/ Enciclopedia Libre Universal (en español]
 </small>
 
-</td></tr></table>
+</td></tr>
