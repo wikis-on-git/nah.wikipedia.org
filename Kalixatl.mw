@@ -49,7 +49,7 @@ Para '''buscar ce tlahtoli''' escríbela en la parte superior o inferior de esta
 <tr>
 <td valign="top" align="right">'''Hoy es''':&nbsp;</td>
 <td>
-{{CURRENTMONTHNAME}} {{CURRENTDAY}} -
+[[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]]
 </tr>
 </table></div></div>
 
@@ -105,6 +105,7 @@ Para '''buscar ce tlahtoli''' escríbela en la parte superior o inferior de esta
 :[[Wikipedia:Bienvenidos a Wikipedia|Bienvenidos a Wikipedia]] - [[Cómo se edita una página]] - [[Wikipedia|¿Que es la Wikipedia?]] - [[Wikipedia:Página de pruebas]] - [[Wikipedia:Plantillas]] - [[Wikipedia:Wikipedistas]] - [[Wikipedia:Artículos solicitados]] - [http://nah.wikipedia.org/wiki.cgi?action=random Página aleatoria]
 
 <small>
+
 === OCCEQUINTIN TLAHTOLTIN ===
 <small>
 [http://af.wikipedia.org Afrikaans] - [http://als.wikipedia.org Els&auml;ssische] - [http://ar.wikipedia.org &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1617;&#1577; (Araby)] - [http://hy.wikipedia.org Armena] - [http://as.wikipedia.org (Asamiya)] - [http://ast.wikipedia.org Asturian] - [http://ay.wikipedia.org Aymara] -
