@@ -1,5 +1,5 @@
 <table border=1 style="float: right; border-collapse: collapse;  margin-left:1em;">
-<tr><td colspan=2>{{msg:numbers_10s}}
+<tr><td colspan=2>{{numbers_10s}}
 <tr><td>[[Cardinal]]<td>Caxtollice
 <tr><td>[[Ordinal]]<td>Ipan-caxtollice
 <tr><td>[[Roman numeral]]<td>XVI
@@ -10,10 +10,10 @@
 
 '''Caxtollice''' ([[caxtolli]] + [[ce]]), '''caxtolloce'''.
 
-=={{msg:SeeAlso}}==
+=={{SeeAlso}}==
 *[[Cozcacuauhtli]]
 
-=={{msg:Links}}==
+=={{Links}}==
 *[http://www.zompist.com/came.htm zompist.com: Numbers in Central Amerindian Languages]
 *[http://www.geocities.com/a1ma_mia/calendar/mesocal.html Mesoamerican Calendars] See: "TABLE 2. Sign Meanings".
 
