@@ -1,13 +1,21 @@
-{| border="1" bgcolor="#ffffff" cellpadding="5" align="right" width="300" style="margin-left:3px"
+{| border="1" bgcolor="#ffffff" cellpadding="5" cellspacing="0" align="right" width="300px" style="margin-left:3px"
 |+ '''Mexihco'''
 |-
-|colspan=2 align=center | [[Image:Flag_of_Mexico.png|150px|Mexihcapantli]]     [[Image:Mexico_coat_of_arms.png|110px|Mexihcachimalli]]
+|colspan=2 align=center |
+{| border="0"
+|-
+|align="center" with="150px"|[[Image:Flag_of_Mexico.png|145px|Mexihcapantli]]||align="center" with="150px"|[[Image:Mexico_coat_of_arms.png|110px|Mexihcachimalli]]
+|-
+|}
 |-
 |colspan=2 align=center | [[Image:LocationMexico.png|290px|Mexihco ipan Cemanáhuatl]]
 |-
-|bgcolor=#F7F8FF| [[Altepetepantlahtocan]] || [[Mexihco Tenochtitlan]]
+|bgcolor=#F7F8FF | [[Altepetepantlahtocan]] || [[Mexihco Tenochtitlan]]
 |-
-|bgcolor=#F7F8FF| [[Hueyaltépetl]] || [[Mexihco Tenochtitlan]]
+|bgcolor=#F7F8FF| [[tepacholiztli yucáyotl]]
+::<font size=-2>[[Tlahtocayotlatoani]]</font>
+| [[Tlacatlahtocáyotl]]
+:<font size=-2>[[Vicente Fox Quesada]]</font>
 |-
 |bgcolor=#F7F8FF| [[Ixco]] (km²) || 1 972 500
 |-
@@ -31,7 +39,7 @@
 
 '''Mexihco''' nozo '''Tlahtocáyotl In Cepanca Mexihcah''' nozo '''Mexihcapan''' (Caxtilcopa: '''México''' nozo '''Estados Unidos Mexicanos''' nozo '''República Mexicana'''), in [[Mexihcah]]tlalpan. [[Tenochtitlan]] in [[hueyaltépetl]] Mexihco.
 
-==Mexihcatlahtolli==
+==Nemilizcáyotl==
 [[Image:Tenoch2A.jpg|Mexihco Tenochtitlan]]
 
 ==Cemtaltiliztli==
@@ -45,11 +53,11 @@ Mexihcatlalpan.
 ===Tlahtocáyotl Mexihco===
 
 <!-- Tabla de los estados -->
-{| border="0" bgcolor="#ffffff" cellpadding="5" align="center" width="815" style="margin-left:3px"
-|-
+{| border="0" bgcolor="#ffffff" cellpadding="5" cellspacing="0" align="center" style="margin-left:0px"
+|- 
 |[[Image:Mexican_states.png|center|350px|Tlahtocáyotl]] 
 ||
-|<font style="line-height: 180%; font-size: 9pt;">
+<font style="line-height: 150%; font-size: 8pt;">
 1. [[Atotonquipan]] (Aguascalientes)<br/>
 2. [[Mexicatl California]] (Baja California)<br/>
 3. [[Mexicatl California Huitztlan]] (Baja California Sur)<br/>
@@ -63,7 +71,7 @@ Mexihcatlalpan.
 11. [[Cihuatlan]] (Guerrero)<br/>
 </font>
 ||
-<font style="line-height: 170%; font-size: 9pt;">
+<font style="line-height: 150%; font-size: 8pt;">
 12. [[Calpanpilco]] (Hidalgo)<br/>
 13. [[Xalixco]] (Jalisco)<br/>
 14. [[Mexihco Tlahtocáyotl]] (Estado de México)<br/>
@@ -77,8 +85,8 @@ Mexihcatlalpan.
 22. [[Quintana Roo]] (Quintana Roo)<br/>
 </font>
 ||
-<font style="line-height: 180%; font-size: 9pt;">
-23. [[San Luis Potosí]] (Saln Luis Potosí)<br/>
+<font style="line-height: 150%; font-size: 8pt;">
+23. [[San Luis Potosí]] (San Luis Potosí)<br/>
 24. [[Xinaloac]] (Sinaloa)<br/>
 25. [[Xonotan]] (Sonora)<br/>
 26. [[Onohualco]] (Tabasco)<br/>
@@ -89,7 +97,9 @@ Mexihcatlalpan.
 31. [[Zacatecapan]] (Zacatecas)<br/>
 32. [[Mexihco Tenochtitlan]] (Distrito Federal)<br/>
 </font>
+|-
 |}
+
 ==Tequíyotl==
 [[Image:MEXICAN_PESOS_4_by_verzerk.jpg|thumb|220px|left|Mexihca peso]]
 
