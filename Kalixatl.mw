@@ -23,6 +23,20 @@ In nāhuatlahtōlli Wikipedia in ce tlalticpactli tequitl ico cenca tlahtoltin. 
 Nic '''tictemoa ce tlahtōlli''', ma ihcuiloa ahcopa anozo tzintlan ihuan ma maca ipan '''Search'''.
 </td></tr>
 
+<!--Aqui comienza el cuadro para crear articulo-->
+<tr><td colspan="2" valign="top" style="border:1px solid #006699;" bgcolor="#EAF5FB">
+<table cellpadding="5px" cellspacing="0px">
+<tr><td style="font: 125%; text-align: center; background: #D0E2EE; "><strong>Creador Mágico de Wikipedia<strong></td></tr>
+<tr><td style="border-top: 1px solid #006699; vertical-align: top;" bgcolor="#EAF5FB">
+<dl>
+<dt></dt>
+<dd>
+<div style="background: #FAFAFA; border: 1px solid #ccc; padding: 5px 5px 5px 5px; margin-bottom: 10px;">
+<div style="clear: both; background-color: #EBEBEB; padding: 5px 5px 5px 5px; border: #B8B8B8 1px solid;"><inputbox>type=create
+width=45</inputbox><hr /><div style="font-size:90%; line-height: 110%;">'''<center>El editor mágico de Wikipedia'''</br>¡Escribe el nombre del artículo y editarás al instante!</br>
+'''''Advertencia:''''' Utiliza sabiamente esta herramienta </center></li></ul></div></div>
+</td></tr>
+
 <!--Aquí comienzan los Artículos seleccionados-->
 <tr><td colspan="2" valign="top" style="border:1px solid #006699;" bgcolor="#EAF5FB">
 <table cellpadding="5px" cellspacing="0px">
