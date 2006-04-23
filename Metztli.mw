@@ -1,7 +1,7 @@
 {| id="toc" style="margin-left: 1em; float:right; width: 25em;"
 |+ '''Mētztli'''
 |-----
-| align="center" bgcolor="#040210" colspan="2" | [[Image:Lunar nearside.jpg|180px|center|Mētztli]]
+| align="center" bgcolor="#000000" colspan="2" | [[Image:Full moon.png|180px|center|Mētztli]]
 |-----
 ! bgcolor="#ffc0c0" colspan="2" | Características [[Órbita|orbitales]]
 |-----
@@ -23,18 +23,18 @@
 ! bgcolor="#ffc0c0" colspan="2" | [[Diámetro angular]] geocéntrico
 |-----
 ! align="left" | En el [[perigeo]]
-| 33' 28,8"
+| 33' 28.8"
 |-----
 ! align="left" | En el [[apogeo]]
-| 29' 23,2"
+| 29' 23.2"
 |-----
 ! align="left" | Diámetro medio
-| 31' 05,2"
+| 31' 05.2"
 |-----
 ! bgcolor="#ffc0c0" colspan="2" | Características físicas
 |-----
 ! align="left" | [[Diámetro]] [[Línea del ecuador|Ecuatorial]]
-| 3.474.8 [[km]]
+| 3,474.8 [[km]]
 |-----
 ! align="left" | [[Superficie]]
 | 38 millones de [[kilómetro cuadrado|km²]]
@@ -43,7 +43,7 @@
 | 7.349 × 10<sup>22</sup> [[kg]]
 |-----
 ! align="left" | [[Densidad]] media
-| 3,34 [[gramo|g]]/[[centímetro cúbico|cm³]]
+| 3.34 [[gramo|g]]/[[centímetro cúbico|cm³]]
 |-----
 ! align="left" | [[Gravedad]] superficial
 | 1.62 [[Aceleración|m/s²]]
@@ -61,12 +61,12 @@
 |
 {| cellspacing="0" cellpadding="2" border="0"
 |-----
-! min
+! mín.
 ! media
-! max
+! máx.
 |-----
-| -- [[grado Kelvin|K]] || 250 [[grado Kelvin|K]]
-| -- [[grado Kelvin|K]]
+| -- [[Kelvin|K]] || 250 [[Kelvin|K]]
+| -- [[Kelvin|K]]
 |}
 |-----
 ! bgcolor="#ffc0c0" colspan="2" | Características [[Atmósfera|atmosféricas]]
