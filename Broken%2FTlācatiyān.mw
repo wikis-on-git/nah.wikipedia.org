@@ -1,0 +1,98 @@
+{| border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 300px; background:#f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse;"
+|+ style="margin-left: inherit; font-size: larger; font-weight: bold;" | 
+''{{{nombre_oficial_nativo}}}''<br />{{{nombre_oficial}}}
+| align="center" colspan="2" |
+{| style="background: transparent; text-align: center;"
+| width="{{#if:{{{sólo_bandera|}}}|90%|130px}}" | <span style="display:table-cell; border-collapse:collapse; border: solid 1px #BBBBBB;">[[Imagen:{{{imagen_bandera|sin bandera.svg}}}|{{{imagen_bandera_tamaño|125px}}}|Bandera {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}]]</span>
+|{{#if:{{{sólo_bandera|}}}|| width="130px" {{barra}} [[Imagen:{{{imagen_escudo|sin escudo.svg}}}|{{{imagen_escudo_tamaño|100px}}}|Escudo {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}]]
+{{barra}}}}-
+| <small>[[Bandera {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
+|{{#if:{{{sólo_bandera|}}}|| <small>[[Escudo {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
+{{barra}}}}-
+|}
+|{{#if:{{{lema_nacional|}}}|- style="text-align: center; vertical-align: top; font-size: 90%;"
+{{barra}} colspan="2" {{barra}} [[Lista de lemas de estado|Lema nacional]]: {{{lema_nacional}}}
+{{barra}}}}{{#if:{{{himno_nacional|}}}|- style="text-align: center; vertical-align: top; font-size: 90%;"
+{{barra}} colspan="2" {{barra}} [[Tepetlacuical]]: {{{Tepetlacuical}}}
+{{barra}}}}- style="text-align: center; vertical-align: top;"
+| colspan="2" | [[Imagen:{{{imagen_mapa|falta.png}}}|center|{{#if:{{{imagen_mapa|}}}|{{{imagen_mapa_tamaño|290px}}}}}|Situación de {{{nombre_común|{{PAGENAME}}}}}]]
+|- style="vertical-align: top; font-size:95%;"
+| [[Āltepētepantlahtocan]]<br /><small>&nbsp;&bull; [[Demografía {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Población]]<br />&nbsp;&bull; [[Coordenada]]s</small>
+| {{{capital|n/d}}}<br /><small>{{{capital_población|n/d}}}<br />{{#if:{{{capital_coor|}}}|[http://kvaleberg.com/extensions/mapsources/index.php?params={{{capital_coor}}}]|n/d}}</small>
+|{{#if:{{{ciudad_principal|}}}|- style="vertical-align: top; font-size:95%;"
+{{barra}} [[:Categoría:Localidades {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Mayor ciudad]]
+{{barra}} {{{ciudad_principal}}}
+{{barra}}}}- style="vertical-align: top; font-size:95%;"
+| [[Idioma oficial|{{#if:{{{idioma_oficial|}}}|Idioma oficial|Idiomas oficiales}}]]
+| {{{idioma_oficial|{{{idiomas_oficiales|n/d}}}}}}
+|- style="vertical-align: top; font-size:95%;"
+| style="white-space: nowrap;" | [[Forma de gobierno]] <div style="text-align: right;">{{{dirigentes_títulos|}}}</div>
+| style="white-space: nowrap;" | {{{gobierno|}}}<br />{{{dirigentes_nombres|}}}
+|- style="vertical-align: top; font-size:95%;"
+| style="white-space: nowrap;" | {{{fundación|[[Historia {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Fundación]]}}}<br />{{{fundación_hitos|}}}
+| style="white-space: nowrap;" | {{{fundación_fechas|}}}
+|- style="vertical-align: top; font-size:95%;"
+| style="white-space: nowrap;" | [[Lista de países por superficie|Superficie]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; % agua<br />[[Frontera]]s<br />[[Costa]]s
+| {{#if:{{{superficie_puesto|}}}|[[Lista de países por superficie|Puesto {{{superficie_puesto}}}º]]}}<br />{{#if:{{{superficie|}}}|{{{superficie}}} [[kilómetro cuadrado|km²]]|n/d}}<br />{{{superficie_agua|n/d}}}<br />{{{fronteras|n/d}}}<br />{{{costas|n/d}}}
+|- style="vertical-align: top; font-size:95%;"
+| style="white-space: nowrap;" | [[Lista de países por población|Población]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; [[Lista de países por densidad de población|Densidad]]
+| {{#if:{{{población_puesto|}}}|[[Lista de países por población|Puesto {{{población_puesto}}}º]]}}<br />{{{población|n/d}}}<br />{{#if:{{{población_densidad|}}}|{{{población_densidad}}} hab./km²|n/d}}
+|- style="vertical-align: top; font-size:95%;"
+| style="white-space: nowrap;" | [[Producto interno bruto|PIB]] ([[Paridad de poder adquisitivo|PPA]])<br />&nbsp;&bull; Total <small>{{#if:{{{PIB_año|}}}|([[{{{PIB_año}}}]])}}</small><br />&nbsp;&bull; [[Lista de países por PIB (PPA) per cápita|PIB per cápita]]
+| {{#if:{{{PIB_puesto|}}}|[[Lista de países por PIB (PPA)|Puesto {{{PIB_puesto}}}º]]}}<br />{{{PIB|n/d}}}<br />{{{PIB_per_cápita|n/d}}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Moneda]]
+| {{{moneda|n/d}}} {{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|(}}{{{moneda_símbolo|}}}{{#if:{{{moneda_iso|}}}|{{#if:{{{moneda_símbolo|}}}|,&nbsp;}}<code>[[ISO 4217|{{{moneda_iso}}}]]</code>}}{{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|)}} {{#if:{{{moneda_div|}}}|= {{{moneda_div}}}}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Lista de gentilicios ordenada por topónimo|Gentilicio]]
+| {{{gentilicio|n/d}}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Huso horario]]{{#if:{{{horario_verano|}}}|<br />&nbsp;&bull; en [[Horario de verano|verano]]}}
+| {{{horario|n/d}}}{{#if:{{{horario_verano|}}}|<br />{{{horario_verano}}}}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Lista de dominios de Internet|Dominio Internet]]
+| {{#if:{{{cctld|}}}|<code>{{{cctld}}}</code>|n/d}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Lista de códigos telefónicos|Código telefónico]]
+| {{#if:{{{código_telefónico|}}}|<code>+{{{código_telefónico}}}</code>|n/d}}
+|- style="vertical-align: top; font-size:95%;"
+| [[Lista de prefijos radiofónicos|Prefijo radiofónico]]
+| {{#if:{{{prefijo_radiofónico|}}}|<small><code>{{{prefijo_radiofónico}}}</code></small>|n/d}}
+|- style="vertical-align: top; font-size:95%;"
+| [[ISO 3166-1|Código ISO]]
+| {{{código_ISO|n/d}}}
+|{{#if:{{{miembro_de|}}}|- style="vertical-align: top; font-size:95%;"
+{{barra}} colspan="2" {{barra}} Miembro de: {{{miembro_de}}}
+{{barra}}}}{{#if:{{{notas|}}}{{{nota1|}}}{{{nota2|}}}{{{nota3|}}}{{{nota4|}}}{{{nota5|}}}{{{nota6|}}}{{{nota7|}}}{{{nota8|}}}{{{nota9|}}}|- style="vertical-align: top; font-size:95%;"
+{{barra}} colspan="2" {{barra}}
+{{#if:{{{nota1|}}}|<sup id="infobox_nota_1"><small>1</small></sup>&nbsp;{{{nota1}}}<br/>}}{{#if:{{{nota2|}}}|<sup id="infobox_nota_2"><small>2</small></sup>&nbsp;{{{nota2}}}<br/>}}{{#if:{{{nota3|}}}|<sup id="infobox_nota_3"><small>3</small></sup>&nbsp;{{{nota3}}}<br/>}}{{#if:{{{nota4|}}}|<sup id="infobox_nota_4"><small>4</small></sup>&nbsp;{{{nota4}}}<br/>}}{{#if:{{{nota5|}}}|<sup id="infobox_nota_5"><small>5</small></sup>&nbsp;{{{nota5}}}<br/>}}{{#if:{{{nota6|}}}|<sup id="infobox_nota_6"><small>6</small></sup>&nbsp;{{{nota6}}}<br/>}}{{#if:{{{nota7|}}}|<sup id="infobox_nota_7"><small>7</small></sup>&nbsp;{{{nota7}}}<br/>}}{{#if:{{{nota8|}}}|<sup id="infobox_nota_8"><small>8</small></sup>&nbsp;{{{nota8}}}<br/>}}{{#if:{{{nota9|}}}|<sup id="infobox_nota_9"><small>9</small></sup>&nbsp;{{{nota1}}}<br/>}}{{{notas|}}}
+{{barra}}}}-
+|}
+<noinclude>
+[[Categoría:Wikipedia:Fichas]]
+
+[[af:Sjabloon:Landtabel-mini-nl]]
+[[an:Template:Infobox País]]
+[[bg:Шаблон:Държава]]
+[[ca:Template:Taula d'estat]]
+[[cs:Šablona:Infobox stát]]
+[[da:Skabelon:Infoboks land]]
+[[el:Πρότυπο:Πληροφορίες Χώρας]]
+[[en:Template:Infobox Country]]
+[[fi:Malline:Valtion tiedot]]
+[[fiu-vro:Template:Country Infobox]]
+[[fr:Modèle:Pays]]
+[[he:תבנית:מדינה]]
+[[it:Template:Stato]]
+[[ja:Template:基礎情報 国]]
+[[ko:Template:나라 정보틀]]
+[[nl:Sjabloon:Landtabel]]
+[[nn:Mal:Infoboks land2]]
+[[no:Mal:Infoboks land]]
+[[pl:Szablon:PaństwoX]]
+[[pt:Predefinição:Info País]]
+[[ro:Format:CutieŢări]]
+[[sr:# Шаблон:Кутијица за државе]]
+[[sv:Mall:Landsfakta]]
+[[zh:Template:Infobox Country]]
+</noinclude>
