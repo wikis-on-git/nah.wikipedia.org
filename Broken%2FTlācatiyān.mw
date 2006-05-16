@@ -41,8 +41,8 @@
 | style="white-space: nowrap;" | [[Producto interno bruto|PIB]] ([[Paridad de poder adquisitivo|PPA]])<br />&nbsp;&bull; Total <small>{{#if:{{{PIB_año|}}}|([[{{{PIB_año}}}]])}}</small><br />&nbsp;&bull; [[Lista de países por PIB (PPA) per cápita|PIB per cápita]]
 | {{#if:{{{PIB_puesto|}}}|[[Lista de países por PIB (PPA)|Puesto {{{PIB_puesto}}}º]]}}<br />{{{PIB|n/d}}}<br />{{{PIB_per_cápita|n/d}}}
 |- style="vertical-align: top; font-size:95%;"
-| [[Moneda]]
-| {{{moneda|n/d}}} {{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|(}}{{{moneda_símbolo|}}}{{#if:{{{moneda_iso|}}}|{{#if:{{{moneda_símbolo|}}}|,&nbsp;}}<code>[[ISO 4217|{{{moneda_iso}}}]]</code>}}{{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|)}} {{#if:{{{moneda_div|}}}|= {{{moneda_div}}}}}
+| [[Tequiyōtl]]
+| {{{Tequiyōtl|n/d}}} {{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|(}}{{{moneda_símbolo|}}}{{#if:{{{moneda_iso|}}}|{{#if:{{{moneda_símbolo|}}}|,&nbsp;}}<code>[[ISO 4217|{{{moneda_iso}}}]]</code>}}{{#if:{{{moneda_símbolo|}}}{{{moneda_iso|}}}|)}} {{#if:{{{moneda_div|}}}|= {{{moneda_div}}}}}
 |- style="vertical-align: top; font-size:95%;"
 | [[Lista de gentilicios ordenada por topónimo|Gentilicio]]
 | {{{gentilicio|n/d}}}
