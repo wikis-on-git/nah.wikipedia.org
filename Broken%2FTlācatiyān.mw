@@ -6,8 +6,8 @@
 | width="{{#if:{{{sólo_bandera|}}}|90%|130px}}" | <span style="display:table-cell; border-collapse:collapse; border: solid 1px #BBBBBB;">[[Imagen:{{{imagen_bandera|sin bandera.svg}}}|{{{imagen_bandera_tamaño|125px}}}|Bandera {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}]]</span>
 |{{#if:{{{sólo_bandera|}}}|| width="130px" {{barra}} [[Imagen:{{{imagen_escudo|sin escudo.svg}}}|{{{imagen_escudo_tamaño|100px}}}|Escudo {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}]]
 {{barra}}}}-
-| <small>[[Bandera {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
-|{{#if:{{{sólo_bandera|}}}|| <small>[[Escudo {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
+| <small>[[Pāntli {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
+|{{#if:{{{sólo_bandera|}}}|| <small>[[Chīmalli {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|(En detalle)]]</small>
 {{barra}}}}-
 |}
 |{{#if:{{{lema_nacional|}}}|- style="text-align: center; vertical-align: top; font-size: 90%;"
@@ -32,7 +32,7 @@
 | style="white-space: nowrap;" | {{{fundación|[[Historia {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Fundación]]}}}<br />{{{fundación_hitos|}}}
 | style="white-space: nowrap;" | {{{fundación_fechas|}}}
 |- style="vertical-align: top; font-size:95%;"
-| style="white-space: nowrap;" | [[Lista de países por superficie|Superficie]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; % ātl<br />[[Frontera]]s<br />[[Costa]]s
+| style="white-space: nowrap;" | [[Lista de países por superficie|Superficie]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; % Ātl<br />[[Cuāxōchtli]]<br />[[Ānāhuatl]]
 | {{#if:{{{superficie_puesto|}}}|[[Lista de países por superficie|Puesto {{{superficie_puesto}}}º]]}}<br />{{#if:{{{superficie|}}}|{{{superficie}}} [[kilómetro cuadrado|km²]]|n/d}}<br />{{{superficie_agua|n/d}}}<br />{{{fronteras|n/d}}}<br />{{{costas|n/d}}}
 |- style="vertical-align: top; font-size:95%;"
 | style="white-space: nowrap;" | [[Lista de países por población|Neminimeh]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; [[Lista de países por densidad de población|Densidad]]
