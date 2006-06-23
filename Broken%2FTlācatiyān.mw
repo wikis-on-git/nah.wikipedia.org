@@ -15,7 +15,7 @@
 {{barra}}}}{{#if:{{{Āltepētlacuīcatl|}}}|- style="text-align: center; vertical-align: top; font-size: 90%;"
 {{barra}} colspan="2" {{barra}} [[Āltepētlacuīcatl]]: {{{Āltepētlacuīcatl}}}
 {{barra}}}}- style="text-align: center; vertical-align: top;"
-| colspan="2" | [[Imagen:{{{imagen_mapa|falta.png}}}|center|{{#if:{{{imagen_mapa|}}}|{{{imagen_mapa_tamaño|290px}}}}}|Situación de {{{nombre_común|{{PAGENAME}}}}}]]
+| colspan="2" | [[Imagen:{{{imagen_mapa|falta.svg}}}|center|{{#if:{{{imagen_mapa|}}}|{{{imagen_mapa_tamaño|290px}}}}}|Situación de {{{nombre_común|{{PAGENAME}}}}}]]
 |- style="vertical-align: top; font-size:95%;"
 | [[Āltepētepantlahtocan]]<br /><small>&nbsp;&bull; [[Demografía {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Neminimeh]]<br />&nbsp;&bull; [[Coordenada]]s</small>
 | {{{Āltepētepantlahtocan|n/d}}}<br /><small>{{{capital_población|n/d}}}<br />{{#if:{{{capital_coor|}}}|[http://kvaleberg.com/extensions/mapsources/index.php?params={{{capital_coor}}}]|n/d}}</small>
