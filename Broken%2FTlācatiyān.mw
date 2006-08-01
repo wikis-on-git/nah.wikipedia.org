@@ -23,8 +23,8 @@
 {{barra}} [[:Categoría:Localidades {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Huēyi Āltepētl]]
 {{barra}} {{{Huēyi_Āltepētl}}}
 {{barra}}}}- style="vertical-align: top; font-size:95%;"
-| [[Idioma oficial|{{#if:{{{idioma_oficial|}}}|Idioma oficial|Idiomas oficiales}}]]
-| {{{idioma_oficial|{{{idiomas_oficiales|n/d}}}}}}
+| [[Achcauhtlahtōlli|{{#if:{{{Achcauhtlahtōlli|}}}|Achcauhtlahtōlli|Achcauhtlahtōlli}}]]
+| {{{Achcauhtlahtōlli|{{{Achcauhtlahtōlli|n/d}}}}}}
 |- style="vertical-align: top; font-size:95%;"
 | style="white-space: nowrap;" | [[Forma de gobierno]] <div style="text-align: right;">{{{dirigentes_títulos|}}}</div>
 | style="white-space: nowrap;" | {{{gobierno|}}}<br />{{{dirigentes_nombres|}}}
