@@ -1,57 +1,286 @@
-{| border="0" width="100%" style="margin-bottom:-30px"
-| <div style="margin: 0px 0px 0px 3%; text-align: center; 
-font-size: 18px;">'''Witamy w [[Wikipedia|Wikipedii]] &ndash; wolnej [[encyklopedia|encyklopedii]], którą każdy może [[Wikipedia:Wstęp|redagować]].'''</div><div style="margin:0px 0px 0px 3%;text-align:center; font-size:94%">
-W polskiej wersji (uruchomionej [[26 września]] [[2001]]) mamy już <span style="font-size:115%;">'''''[[Specjalna:Statistics|{{NUMBEROFARTICLES}}]]'''''</span> haseł.</div>
-| style="width: 120px" | <div style="padding-bottom:.8em; margin-top:15px; text-align:center; padding-right: 8px; float:right;">[[Grafika:Other-langs2.png]]
-<div style="font-size:10px">[[Wikipedia:Kompletna lista języków|Inne języki]] | [[Wikipedia:Ambasada Polska|Ambasada]]</div></div>
-|}
-{{kategorie1}}
-<!-------Tabela------------------------------------------------------>
-{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
-| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
-<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
-<div style="float:right; margin:8px; margin-top:5px">{{klik | Grafika = Crystal 128 wp.png | Wysokość = 48px | Szerokość = 48px | Link = Bieżące wydarzenia}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Aktualności</div>
-<div style="font-size:9pt; padding:5px">{{Wiadomości}}</div>
+<div style="font-family: Trebuchet ms;font-size:10pt;"><table width="100%" cellspacing="5px" cellpadding="0px">
+<tr>
+<td colspan="2" style=
+"vertical-align:top; border:1px solid gray; padding:0 1em 1em 1em; background-color:#fffffc;align:right;">
+Āxcān in [[Huiquipedia]] nochitlamantinamoxtli nahuatlahtolcopa.
 
-| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
-<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
-<div style="float:right; margin:5px; margin-top:5px">{{klik | Grafika = Exquisite-khelpcenter.png | Wysokość = 48px | Szerokość = 48px | Link = Szablon:Czy wiesz}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Czy wiesz, że...</div>
-<div style="font-size:9pt; padding:5px">{{Czy wiesz}}</div>
-|-
-<!--------------------------------------------->
-| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
-<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
-<div style="float:right; margin:6px;">{{klik | Grafika = Noia 64 apps date pl.png | Wysokość = 50px | Szerokość = 50px | Link = {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Wybrane rocznice</div>
-<div style="font-size:9pt; padding:5px">{{Rocznice {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
+'''¡Niltze!''' Inon in nahuatlahtozentzontlamanamoxtli, intla cualli tinahuatlahtoa, macamo xiquilcahua inon tlahchuilolli. ¿Cuix titlahtoa mazehualcopa? Titlahchuilhuah centzontlamanamoxtli nahuatlahtolcopa ican nochtlaca, timochintin. Inin mozentzontlamanamoxtli; inin tozentzontlamanamoxtli. 
+Otiquipeuhqueh '''tlachicueiti metztli [[2003]] xihuitl''': yeh tiquimpiah '''[[Special:Statistics|{{NUMBEROFARTICLES}}]] totlahtomeh'''. 
 
-| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
-<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
-<div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px">{{klik | Grafika = Wikimedal.png | Wysokość = 52px | Szerokość = 32px | Link = Wikipedia:Artykuły na medal}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Artykuł na medal</div>
-<div style="font-size:9pt; padding:5px">{{Artykuł na medal}}</div>
-|-
-<!-------------------------------------------->
-| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
-<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
-<div style="float:right; margin:5px; margin-right:8px">{{klik | Grafika = Nuvola apps bookcase.png | Wysokość = 50px | Szerokość = 50px | Link = Portal:Portale}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Portale</div>
-<div style="font-size:9pt; padding:5px">{{WikiportaleSG}}</div>
+Āxcān: {{CURRENTDAY}}, {{CURRENTMONTHNAME}}, {{CURRENTYEAR}}
+</td>
+</tr>
+<tr><td colspan="2" style=
+"vertical-align: top; border: 1px solid gray; padding:5px 5px 5px 5px; background:#FAF9EC;"><!-- Nāhuatl -->
+Inin in nahuatlahtolcopa Huiquipedia, in ichitlamantinamoxtli, ayohui temoa īhuān amitla moxtlahua, ihcuilotic cah cencah chiquipili tlacah ipan achi macuilpohualli tlahtōlli. Ticueltemoz tlanonotzaliztli ipan tlahtōlme tlatzintlan ahnozo ipan nepantlah '''temoa''' in notloc. Intla amo cah titlatemoa, ticuelpalehuia itloc tlahtōlli in nāhuatl ipan cuexqui zazaniltin titlapactia. [http://es.wikipedia.org/wiki/C%F3mo_se_edita_una_p%E1gina Quen nitlacuiloa cē zazanilli], nozo, ticuelihtaz cē Hiquipedia ic oc cequi tlahtōlli ticmati (ma ihta itlamian inin zazanilli), in iuh ticcahua motlahtani [[Wikipedia:Tlatlahtoaloyan|nican]]. Intla cē motlahtani ipan totequi ticueltlaliz nican īhuān intla tiquihtah ce zazanilli tlen ticpoloa titlachicuilia ahnozo ticnequi titlapalehuia totloc, ma pohua inin zazanilli.
 
-| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
-<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
-<div style="float:right; margin:5px; margin-bottom:0px">{{klik | Grafika = Nuvola apps kcoloredit.png | Wysokość = 50px | Szerokość = 50px | Link = Wikipedia:Grafika na medal}}</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Grafika na medal</div><br>
-<div style="font-size:9pt; padding:5px">{{Zdjęcie tyg}}</div>
-|-
-<!-------Dół---------------------------------->
-| colspan="2" style="border:1px solid #aaa; background-color: white;" |
-<div style="background-color:#E0E0E0; font-size:1px; height:8px; border-bottom:1px solid #aaa;"></div>
-{{Siostrzane}}
-|}
+In nahuatlahtōlli quielehuia yanchuictlahtōlli niquihtoa huey miac itech tlamantli ipan cē ichitlamantinamoxtli. Ma ihtoa [[Huiquipedia:Yancuīctlahtōlli]] īhuān tiquihtoa motlahto inin.
 
-__NOTOC__
-__NOEDITSECTION__
-{{Interwiki}}
+[[Tlahtōlāmoxmeh]]
+
+In nahuatlahtōlli Hiquipedia in cē tlalticpactli tequitl ico cencah tlahtoltin. Nic tiquihta cē zazanilli [http://es.wikipedia.org/wiki/Especial:Randompage ma maca inin] īhuān ticuelihtaz cē aca zazanilli.
+
+Nic '''tictemoa cē tlahtōlli''', ma quihcuiloa ahcopa ahnozo tzintlan īhuān ma maca ipan '''Buscar'''.
+</td></tr>
+
+
+<!--Aquí comienzan los Artículos seleccionados. Por favor agrege la plantilla correspondiente en el artículo y discuta antes de convertirlo en seleccionado.-->
+<tr><td colspan="2" valign="top" style="border:1px solid #006699;" bgcolor="#EAF5FB">
+<table cellpadding="5px" cellspacing="0px">
+<tr><td style="font: 125%; text-align: center; background: #D0E2EE; "><strong>Artículos seleccionados<strong></td></tr>
+<tr><td style="border-top: 1px solid #006699; vertical-align: top;" bgcolor="#EAF5FB">
+<dl>
+<dt>Īpanocayōtl</dt>
+<dd>[[Chāntli]] - [[Xōchitl]] - [[Cōātl]] - [[Pāpalōtl]] - [[Tocatl]] - [[Nāhuatl]] - [[Quetzalcōātl]] - [[Mēxihco]] - [[Caxtillān]] - [[Tōnatiuh]] - [[Tenōchtitlān]] - [[Aztēcah]] - [[Mētztli]] - [[Tezcatlipoca]] - [[Tlāhuīlli]] - [[Tlaloc]]</dd>
+</dl>
+* [[Huiquipedia:Lista de artículos que toda wikipedia debería tener]]
+* [[Huiquipedia:Artículos solicitados]]
+* [[Huiquipedia:Yequihcuilotl]]
+* [[Huiquipedia:Yancuīctlahtōlli]]
+* [[Tlahtōlāmoxmeh]]
+</td></tr>
+</table>
+</td></tr>
+<!--Aquí terminan los Artículos seleccionados-->
+
+<!--Categorías-->
+<tr>
+<td colspan="2" style=
+"vertical-align:top; bordwer:1px solid gray; padding:0 1em 1em 1em; background-color:#fffffc;align:right;font-size:90%;font-family: Trebuchet ms;">
+
+<dl>
+
+<dt>'''[[Tlamatiliztli]]'''</dt>
+<dd>[[Iuhcayotlamatiliztli]] - [[Tlapōhualmatiliztli]] - [[Cicitlalmatiliztli]] - [[Yolizmatiliztli]] - [[Cemanahuatiliztli]] - [[Payelizyōtl]] - [[Yollocemanahuayōtl]] - [[Tlallimatiliztli]]</dd>
+
+
+<dt>'''[[Tlacacniuhyotlamatiliztli]]'''</dt>
+<dd>[[Tlacayomatiliztli]] - [[Huēhuehcayomatiliztli]] - [[Amoxcallimatiliztli]] - [[Temacilmatiliztli]] - [[Quentecemitquimatiliztli]] - [[Tepaltlahtomatiliztli]] - [[Tomimatiliztli]] - [[Yeyamatiliztli]] - [[Nemiliztlahmatiliztli]] - [[Tlahtōlmatiliztli]] - [[Pedagogía]] - [[Yolixmaciliztli]] - [[Tlacaicniuhyotiliztli]] - [[Tlamatiliztlazohtlaliztli]] - [[Teōtlamatiliztli]] - [[Coyomatiliztli]]</dd>
+
+
+<dt>'''Ciencias aplicadas'''</dt>
+<dd>[[Mīllacayōtl]] - Astronáutica - movimiento: hollín, [[Macehualliteyolehualiztli tlamatiliztli]] - [[Pāccāyematiliztli]] - Comunicación - Gastronomía - [[Chiuhpohualhuaztli tlamatiliztli]] - Minería - Pesca - Ganadería - [[Amantecayotl]] - [[Tepuzyollomatiliztli]] - Transporte</dd>
+
+
+<dt>'''[[Tōltēcāyōtl]]'''</dt>
+<dd>Artes plásticas - Bellas Artes - 
+[[Calciuhcamatiliztli]] - [[Tacuicuihlitzli]] - [[Tlacuilōyōtl]]</dd>
+
+
+<dt>'''Artes'''</dt>
+<dd>[[Tlacuilocayōtl]] - [[Mācēhuayōtl]] - [[Tlatzotzonalōtl]] - [[Ixiptlayolin]] - [[Ixehuayōtl]] - [[Papiroflexia]] - Maquetismo - Artes gráficas - Diseño - Ebanistería - Cerámica - Forja</dd>
+
+<dt>'''[[Tlamatiliztli]]'''</dt>
+<dd>Creencias - Cultura popular - Entretenimento - Espectáculos - Deportes - Juegos - Medios de comunicación - [[Yecnemiliztli]] - [[Ahuicyayōtl]]</dd>
+</dl>
+
+Calendario de acontecimientos - Clasificación cronológica de acontecimientos
+</td>
+</tr>
+
+<!-- Fin de Categorías-->
+
+<tr>
+<td width="50%" valign="top">
+
+<table cellpadding="5px" cellspacing="0px">
+<tr>
+<td style=
+"vertical-align: top; border: 1px solid gray; padding:5px 5px 5px 5px; background:#FAF9EC;"> 
+Esta es la Wikipedia en náhuatl, la enciclopedia libre, fácilmente accesible y sin costo, redactada por miles de personas en más de cien idiomas. Puede buscar información en los enlaces o en el cuadro de búsqueda. Si no está lo que busca, puede ayudar con textos en náhuatl sobre cuantos temas le gusten (vea [http://es.wikipedia.org/wiki/C%F3mo_se_edita_una_p%E1gina cómo se edita una página]), o bien puede ver una Wikipedia en otro idioma que conozca (al final de esta página). Si tiene alguna duda o pregunta acerca de nuestro proyecto puede ponerla [[Wikipedia:Tlatlahtoaloyan|aquí]] y si ve algún artículo al que le falte hacer algo o quiere ayudar con nosotros, lea esta sección.
+
+El náhuatl necesita neologismos para decir muchas cosas en una enciclopedia. Visite [[Huiquipedia:Yancuīctlahtōlli]] y diga sus sugerencias y opiniones al respecto.
+
+[[Tlahtōlāmoxmeh]]
+
+La Wikipedia en náhuatl es un proyecto mundial en muchas lenguas. Para ver un artículo de la Wikipedia en español [http://es.wikipedia.org/wiki/Especial:Randompage haga clic aquí].
+
+Para '''buscar un artículo''', escríbalo en la parte superior o inferior de esta portada y pulse '''Buscar'''.
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table cellpadding="5px" cellspacing="0px"> 
+<tr><td style=
+"vertical-align: top; border: 1px solid gray; padding:5px 5px 5px 5px; background:#FAF9EC;">
+This is the nahuatl Wikipedia, the free encyclopedia, easily accessible at no cost, written by thousands of people in more than a hundred languages. You can look for information by using any of the links on this page or by using the search box.  You can help by writing a nahuatl article on any topic you like  (see [http://en.wikipedia.org/wiki/How_to_edit_a_page How to edit a page]), or you can read a Wikipedia in another language you know (see the list at the end of this page). If you have any questions about our project, please ask [[Wikipedia:Tlatlahtoaloyan|here]] and if you see any article missing something or you want to help us, please read this section.
+
+Nahuatl needs neologisms to say many things in an encyclopedia. Please see [[Huiquipedia:Yancuīctlahtōlli]] to give any suggestions.
+
+[[Tlahtōlāmoxmeh]]
+
+The nahuatl Wikipedia is a worldwide project in many languages. This link will take you to a [http://es.wikipedia.org/wiki/Especial:Randompage random page in the Spanish Wikipedia].
+
+To '''search for an article''', type in the box at the top or bottom of this page and click '''Search'''.
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!--Aquí termina en inglés y español-->
+
+
+</table>
+===Tlahtōlhuiquipedia===
+<div class="plainlinks">
+[[m:The provisional portal of Wikipedia|Huiquicalli]]
+
+<div style="font-size:95%"><div id="lang-amerika">
+; <small>Huquipediah Ixachitlān tlahtōlli - Wikipedias in other Native American languages - Wikipedias en otros idiomas americanos:</small>
+[[:ay:|Aymar aru (Aimaratlahtōlli)]] – 
+[[:cho:|Choctaw (Choctauhtlahtōlli)]] - 
+[[:chr:|ᏣᎳᎩ (Cheroquitlahtōlli)]] - 
+[[:chy:|Tsêhesenêstsestôtse (Cheyentlahtōlli)]] – 
+[[:cr:|ᐃᔨᔫ ᐊᔨᒧᐎᓐ (Critlahtōlli)]] – 
+[[:gn:|Avañe'ẽ (Cuaranitlahtōlli)]] – 
+[[:ik:|Iñupiak (Iñupiactlahtōlli)]] - 
+[[:iu:|ᐃᓄᒃᑎᑐᑦ (Inuittlahtōlli)]] – 
+[[:nv:|Diné bizaad (Navahotlahtōlli)]] – 
+[[:qu:|Qhichwa Simi (Quechhuatlahtōlli)]]
+</div>
+
+
+[[:bg:|&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080; (Bulgartlahtōlli)]] -
+[[:ca:|Català (Catalantlahtōlli)]] –
+[[:da:|Dansk (Dantlahtōlli)]] –
+[[:de:|Deutsch (Alemantlahtōlli)]] –
+[[:en:|English (Inglatlahtōlli)]] –
+[[:es:|Español (Caxtiltlahtōlli)]] –
+[[:eo:|Esperanto (Netēmachīltlahtōlli)]] –
+[[:fi:|Suomeksi (Fintlahtōlli)]] – 
+[[:fr:|Français (Franztlahtōlli)]] –
+[[:ga:|Gaeilge (Eiretlahtōlli)]] –
+[[:he:|&#1506;&#1489;&#1512;&#1497;&#1514; (Yudiotlahtōlli)]] –
+[[:io:|Ido (Idotlahtōlli)]] –
+[[:it:|Italiano (Italtlahtōlli)]] –
+[[:ja:|&#26085;&#26412;&#35486; (Xapontlahtōlli)]] –
+[[:nl:|Nederlands (Ahmotlacpactlahtōlli)]] – 
+[[:no:|Norsk (Noruecatlahtōlli)]] –
+[[:pl:|Polski (Polontlahtōlli)]] –
+[[:pt:|Português (Portucaltlahtōlli)]] – 
+[[:scn:|Sicilianu (Siciltlahtōlli)]] –
+[[:sv:|Svenska (Zuecatlahtōlli)]] –
+[[:zh:|&#20013;&#25991; (Āmazolli Chinatlahtōlli)]]
+
+[[aa:]]
+[[af:]]
+[[als:]]
+[[ar:]]
+[[as:]]
+[[ast:]]
+[[ay:]]
+[[az:]]
+[[be:]]
+[[bg:]]
+[[bn:]]
+[[bo:]]
+[[bs:]]
+[[ceb:]]
+[[chr:]]
+[[chy:]]
+[[co:]]
+[[cr:]]
+[[cs:]]
+[[cy:]]
+[[de:]]
+[[da:]]
+[[el:]]
+[[en:]]
+[[eo:]]
+[[es:]]
+[[et:]]
+[[eu:]]
+[[fa:]]
+[[fi:]]
+[[fr:]]
+[[fy:]]
+[[ga:]]
+[[gl:]]
+[[gn:]]
+[[gu:]]
+[[he:]]
+[[hi:]]
+[[hr:]]
+[[hy:]]
+[[ia:]]
+[[id:]]
+[[io:]]
+[[is:]]
+[[it:]]
+[[iu:]]
+[[ja:]]
+[[ka:]]
+[[kk:]]
+[[km:]]
+[[kn:]]
+[[ko:]]
+[[ks:]]
+[[ku:]]
+[[ky:]]
+[[la:]]
+[[ln:]]
+[[lo:]]
+[[lt:]]
+[[lv:]]
+[[hu:]]
+[[mi:]]
+[[mk:]]
+[[ml:]]
+[[mn:]]
+[[mr:]]
+[[ms:]]
+[[mt:]]
+[[mus:]]
+[[my:]]
+[[na:]]
+[[nds:]]
+[[ne:]]
+[[nl:]]
+[[no:]]
+[[nv:]]
+[[oc:]]
+[[om:]]
+[[pa:]]
+[[pag:]]
+[[pl:]]
+[[ps:]]
+[[pt:]]
+[[qu:]]
+[[ro:]]
+[[ru:]]
+[[ru-sib:]]
+[[sa:]]
+[[si:]]
+[[sk:]]
+[[sl:]]
+[[sq:]]
+[[sr:]]
+[[sv:]]
+[[sw:]]
+[[ta:]]
+[[te:]]
+[[tg:]]
+[[th:]]
+[[tk:]]
+[[tl:]]
+[[tr:]]
+[[tt:]]
+[[ug:]]
+[[uk:]]
+[[ur:]]
+[[uz:]]
+[[vi:]]
+[[vo:]]
+[[wa:]]
+[[war:]]
+[[xh:]]
+[[yi:]]
+[[yo:]]
+[[zh:]]
+[[zh-min-nan:]]
+[[zu:]]
