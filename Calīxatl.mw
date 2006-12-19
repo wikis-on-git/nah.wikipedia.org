@@ -1,18 +1,51 @@
+<div id="mainpage"></div>
+<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
+|style="width:56%;color:#000"|
+{|style="width:280px;border:solid 0px;background:none"
+|-
+|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Ximopanolti [[Huiquipedia]],</div>
+<div style="top:+0.2em;font-size: 95%">in tlanemi cēntlamatilizāmoxtli tlenzazo hueliti nitlacuiloa.</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] Nāhuatlahtōlli totlahtohmeh</div>
+|}<!-- Portals Follow -->
+|style="width:11%;font-size:95%;color:#000"|
+*[[Tōltēcāyōtl]]
+*[[Portal:Biography|Biography]]
+*[[Cemanahuatiliztli]]
+|style="width:11%;font-size:95%"|
+*[[Portal:History|History]]
+*[[Tlapōhualmatiliztli]]
+*[[Tlamatiliztli]]
+|style="width:11%;font-size:95%"|
+*[[Portal:Society|Society]]
+*[[Amantecayotl]]
+*'''[[Portal:List of portals|All&nbsp;portals]]'''
+|}<!-- End Portals -->
+
+<!-- End of header section / beginning of left-column -->
+{|style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
+! <h2 style="margin:0;background-color:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Today's featured article</h2>
+|-
+|style="color:#000"|{{Wikipedia:Today's featured article/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
+|-
+
 <div style="font-family: Trebuchet ms;font-size:10pt;"><table width="100%" cellspacing="5px" cellpadding="0px">
 <tr>
 <td colspan="2" style=
 "vertical-align:top; border:1px solid gray; padding:0 1em 1em 1em; background-color:#fffffc;align:right;">
 Āxcān in [[Huiquipedia]] nochitlamantinamoxtli nahuatlahtolcopa.
 
-'''¡Niltze!''' Inon in nahuatlahtozentzontlamanamoxtli, intla cualli tinahuatlahtoa, macamo xiquilcahua inon tlahchuilolli. ¿Cuix titlahtoa mazehualcopa? Titlahchuilhuah centzontlamanamoxtli nahuatlahtolcopa ican nochtlaca, timochintin. Inin mozentzontlamanamoxtli; inin tozentzontlamanamoxtli. 
-Otiquipeuhqueh '''tlachicueiti metztli [[2003]] xihuitl''': yeh tiquimpiah '''[[Special:Statistics|{{NUMBEROFARTICLES}}]] totlahtomeh'''. 
+'''¡Niltze!''' Inon in nāhuatlahtozentzontlamanamoxtli, intla cualli tinahuatlahtoa, macamo xiquilcahua inon tlahchuilolli. ¿Cuix titlahtoa mazehualcopa? Titlahchuilhuah centzontlamanamoxtli nahuatlahtolcopa ican nochtlaca, timochintin. Inin mozentzontlamanamoxtli; inin tozentzontlamanamoxtli. 
+Otiquipeuhqueh '''tlachicuēiti  metztli [[2003]] xihuitl''': yeh tiquimpiah '''[[Special:Statistics|{{NUMBEROFARTICLES}}]] totlahtomeh'''. 
 
 Āxcān: {{CURRENTDAY}}, {{CURRENTMONTHNAME}}, {{CURRENTYEAR}}
 </td>
 </tr>
 <tr><td colspan="2" style=
 "vertical-align: top; border: 1px solid gray; padding:5px 5px 5px 5px; background:#FAF9EC;"><!-- Nāhuatl -->
-Inin in nahuatlahtolcopa Huiquipedia, in ichitlamantinamoxtli, ayohui temoa īhuān amitla moxtlahua, ihcuilotic cah cencah chiquipili tlacah ipan achi macuilpohualli tlahtōlli. Ticueltemoz tlanonotzaliztli ipan tlahtōlme tlatzintlan ahnozo ipan nepantlah '''temoa''' in notloc. Intla amo cah titlatemoa, ticuelpalehuia itloc tlahtōlli in nāhuatl ipan cuexqui zazaniltin titlapactia. [http://es.wikipedia.org/wiki/C%F3mo_se_edita_una_p%E1gina Quen nitlacuiloa cē zazanilli], nozo, ticuelihtaz cē Hiquipedia ic oc cequi tlahtōlli ticmati (ma ihta itlamian inin zazanilli), in iuh ticcahua motlahtani [[Wikipedia:Tlatlahtoaloyan|nican]]. Intla cē motlahtani ipan totequi ticueltlaliz nican īhuān intla tiquihtah ce zazanilli tlen ticpoloa titlachicuilia ahnozo ticnequi titlapalehuia totloc, ma pohua inin zazanilli.
+Inin in nāhuatlahtolcopa Huiquipedia, in ichitlamantinamoxtli, ayohui temoa īhuān amitla moxtlahua, ihcuilotic cah cencah chiquipili tlacah ipan achi mācuīlpohualli tlahtōlli. Ticueltemoz tlanonotzaliztli ipan tlahtōlme tlatzintlan ahnozo ipan nepantlah '''temoa''' in notloc. Intla amo cah titlatemoa, ticuelpalehuia itloc tlahtōlli in nāhuatl ipan cuexqui zazaniltin titlapactia. [http://es.wikipedia.org/wiki/C%F3mo_se_edita_una_p%E1gina Quen nitlacuiloa cē zazanilli], nozo, ticuelihtaz cē Hiquipedia ic oc cequi tlahtōlli ticmati (ma ihta itlamian inin zazanilli), in iuh ticcahua motlahtani [[Wikipedia:Tlatlahtoaloyan|nican]]. Intla cē motlahtani ipan totequi ticueltlaliz nican īhuān intla tiquihtah ce zazanilli tlen ticpoloa titlachicuilia ahnozo ticnequi titlapalehuia totloc, ma pohua inin zazanilli.
 
 In nahuatlahtōlli quielehuia yanchuictlahtōlli niquihtoa huey miac itech tlamantli ipan cē ichitlamantinamoxtli. Ma ihtoa [[Huiquipedia:Yancuīctlahtōlli]] īhuān tiquihtoa motlahto inin.
 
@@ -35,7 +68,7 @@ Nic '''tictemoa cē tlahtōlli''', ma quihcuiloa ahcopa ahnozo tzintlan īhuān 
 </dl>
 * [[Huiquipedia:Lista de artículos que toda wikipedia debería tener]]
 * [[Huiquipedia:Artículos solicitados]]
-* [[Huiquipedia:Yequihcuilotl]]
+* [[Huiquipedia:Yequicuilotl]]
 * [[Huiquipedia:Yancuīctlahtōlli]]
 * [[Tlahtōlāmoxmeh]]
 </td></tr>
