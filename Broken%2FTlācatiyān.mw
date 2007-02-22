@@ -17,7 +17,7 @@
 {{barra}}}}- style="text-align: center; vertical-align: top;"
 | colspan="2" | [[Imagen:{{{imagen_mapa|falta.svg}}}|center|{{#if:{{{imagen_mapa|}}}|{{{imagen_mapa_tamaño|290px}}}}}|Situación de {{{nombre_común|{{PAGENAME}}}}}]]
 |- style="vertical-align: top; font-size:95%;"
-| [[Āltepēnānyōtl]]<br /><small>&nbsp;&bull; [[Demografía {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Neminimeh]]<br />&nbsp;&bull; [[Coordenada]]s</small>
+| [[Āltepēnānyōtl]]<br /><small>&nbsp;&bull; [[Demografía {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Chānehqueh]]<br />&nbsp;&bull; [[Coordenada]]s</small>
 | {{{Āltepēnānyōtl|n/d}}}<br /><small>{{{capital_población|n/d}}}<br />{{#if:{{{capital_coor|}}}|[http://kvaleberg.com/extensions/mapsources/index.php?params={{{capital_coor}}}]|n/d}}</small>
 |{{#if:{{{Huēyi_Āltepētl|}}}|- style="vertical-align: top; font-size:95%;"
 {{barra}} [[:Categoría:Localidades {{{de|de}}} {{{nombre_común|{{PAGENAME}}}}}|Huēyi Āltepētl]]
@@ -35,7 +35,7 @@
 | style="white-space: nowrap;" | [[Lista de países por superficie|Tentli]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; % Ātl<br />[[Cuāxōchtli]]<br />[[Ānāhuatl]]
 | {{#if:{{{superficie_puesto|}}}|[[Lista de países por superficie|Puesto {{{superficie_puesto}}}º]]}}<br />{{#if:{{{Tentli|}}}|{{{Tentli}}} [[kilómetro cuadrado|km²]]|n/d}}<br />{{{superficie_agua|n/d}}}<br />{{{fronteras|n/d}}}<br />{{{costas|n/d}}}
 |- style="vertical-align: top; font-size:95%;"
-| style="white-space: nowrap;" | [[Lista de países por población|Neminimeh]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; [[Lista de países por densidad de población|Densidad]]
+| style="white-space: nowrap;" | [[Lista de países por población|Chānehqueh]]<br />&nbsp;&bull; Total<br />&nbsp;&bull; [[Lista de países por densidad de población|Densidad]]
 | {{#if:{{{población_puesto|}}}|[[Lista de países por población|Puesto {{{población_puesto}}}º]]}}<br />{{{población|n/d}}}<br />{{#if:{{{población_densidad|}}}|{{{población_densidad}}} hab./km²|n/d}}
 |- style="vertical-align: top; font-size:95%;"
 | style="white-space: nowrap;" | [[Producto interno bruto|PIB]] ([[Paridad de poder adquisitivo|PPA]])<br />&nbsp;&bull; Total <small>{{#if:{{{PIB_año|}}}|([[{{{PIB_año}}}]])}}</small><br />&nbsp;&bull; [[Lista de países por PIB (PPA) per cápita|PIB per cápita]]
