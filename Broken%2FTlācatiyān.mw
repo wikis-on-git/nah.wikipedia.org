@@ -4,10 +4,10 @@
 | align="center" colspan="2" |
 {| style="background: transparent; text-align: center;"
 | width="{{#if:{{{sólo_bandera|}}}|90%|130px}}" | <span style="display:table-cell; border-collapse:collapse; border: solid 1px #BBBBBB;">[[Imagen:{{{imagen_bandera|sin bandera.svg}}}|{{{imagen_bandera_tamaño|125px}}}|{{{nombre_común|{{PAGENAME}}}}} pāntli]]</span>
-|{{#if:{{{sólo_bandera|}}}|| width="130px" {{barra}} [[Imagen:{{{imagen_escudo|sin escudo.svg}}}|{{{imagen_escudo_tamaño|100px}}}|{{{nombre_común|{{PAGENAME}}}}} chimalli]]
+|{{#if:{{{sólo_bandera|}}}|| width="130px" {{barra}} [[Imagen:{{{imagen_escudo|sin escudo.svg}}}|{{{imagen_escudo_tamaño|100px}}}|{{{nombre_común|{{PAGENAME}}}}} chīmalli]]
 {{barra}}}}-
 | <small>[[{{{nombre_común|{{PAGENAME}}}}} pāntli|Pāntli]]</small>
-|{{#if:{{{sólo_bandera|}}}|| <small>[[{{{nombre_común|{{PAGENAME}}}}} chimalli|Chimalli]]</small>
+|{{#if:{{{sólo_bandera|}}}|| <small>[[{{{nombre_común|{{PAGENAME}}}}} chīmalli|Chīmalli]]</small>
 {{barra}}}}-
 |}
 |{{#if:{{{lema_nacional|}}}|- style="text-align: center; vertical-align: top; font-size: 90%;"
