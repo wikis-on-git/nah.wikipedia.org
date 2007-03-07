@@ -68,6 +68,7 @@
 {{#if:{{{nota1|}}}|<sup id="infobox_nota_1"><small>1</small></sup>&nbsp;{{{nota1}}}<br/>}}{{#if:{{{nota2|}}}|<sup id="infobox_nota_2"><small>2</small></sup>&nbsp;{{{nota2}}}<br/>}}{{#if:{{{nota3|}}}|<sup id="infobox_nota_3"><small>3</small></sup>&nbsp;{{{nota3}}}<br/>}}{{#if:{{{nota4|}}}|<sup id="infobox_nota_4"><small>4</small></sup>&nbsp;{{{nota4}}}<br/>}}{{#if:{{{nota5|}}}|<sup id="infobox_nota_5"><small>5</small></sup>&nbsp;{{{nota5}}}<br/>}}{{#if:{{{nota6|}}}|<sup id="infobox_nota_6"><small>6</small></sup>&nbsp;{{{nota6}}}<br/>}}{{#if:{{{nota7|}}}|<sup id="infobox_nota_7"><small>7</small></sup>&nbsp;{{{nota7}}}<br/>}}{{#if:{{{nota8|}}}|<sup id="infobox_nota_8"><small>8</small></sup>&nbsp;{{{nota8}}}<br/>}}{{#if:{{{nota9|}}}|<sup id="infobox_nota_9"><small>9</small></sup>&nbsp;{{{nota1}}}<br/>}}{{{notas|}}}
 {{barra}}}}-
 |}
+[[Categoría:Tlācatiyān]]
 <noinclude>
 [[Categoría:Wikipedia:Fichas]]
 
