@@ -18,8 +18,11 @@ Rotación          = 9h 55.5m |
 Inclinación_axial = 3.12 |
 Albedo            = 0.52 |
 Velocidad_escape  = 59.54 |
-Temperatura_superficial = '''mín. &nbsp;&nbsp; media &nbsp;&nbsp; máx.'''<br/>110[[K]]&nbsp;152K &nbsp;&nbsp; &nbsp; N/A |
-Atmósfera = [[Hidrógeno]] &gt;81%<br>[[Helio]] &gt;17%<br/>[[Metano]] 0.1%<br/>Vapor de [[Agua]] 0.1%<br/>[[Amoníaco]] 0.02%<br/>[[Etano]] 0.0002%<br/>[[Fosfina]] 0.0001%<br/>[[Sulfuro de hidrógeno]]&lt;0.0001%</table>|
+mín               = 110K |
+media             = 152K |
+máx               = N/A |
+Componentes       = [[Hidrógeno]]<br/>[[Helio]]<br/>[[Metano]]<br/>Vapor de [[Agua]]<br/>[[Amoníaco]]<br/>[[Etano]]<br/>[[Fosfina]]<br/>[[Sulfuro de hidrógeno]]|
+Porcentajes        = &gt;81%<br>&gt;17%<br/>0.1%<br/>0.1%<br/>0.02%<br/>0.0002%<br/>0.0001%</br>&lt;0.0001%|
 }}
 
 
