@@ -1,100 +1,27 @@
-{| border="0" align="right" style="margin-left:1em"
-|-----
-|
-{| id="toc" style="margin-left: 1em; float:right; width: 25em;"
-|+ <font size=+1>'''Huēyitzitzimicitlālli'''</font>
-|-----
-! bgcolor="#000000" colspan="2" | [[Imagen:Jupiter.jpg|210px|center|Júpiter]]
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características [[órbita|orbitales]]
-|-----
-! align="left" | Distancia media del Sol
-| 5.20336301 [[Unidad Astronómica|UA]]
-|-----
-! align="left" | [[Radio (geometría)|Radio]] medio
-| 778 330 000 [[kilómetro|km]]
-|-----
-! align="left" | [[Excentricidad]]
-| 0.04839266
-|-----
-! align="left" | [[Período orbital]] (sideral)
-| 11a 315d 1.1h
-|-----
-! align="left" | [[Período orbital]] (sinódico)
-| 398.9 días
-|-----
-! align="left" | [[Velocidad orbital]] media
-| 13.0697 km/s
-|-----
-! align="left" | [[Inclinación]]
-| 1.30530°
-|-----
-! align="left" | Número de [[satélite natural|satélites]]
-| 63 conocidos
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características físicas
-|-----
-! align="left" | [[Diámetro]] [[Línea del ecuador|ecuatorial]]
-| 142,984 km
-|-----
-! align="left" | [[Área (Geometría)|Área]] superficial
-| 6.41×10<sup>10</sup> [[kilómetro cuadrado|km²]]
-|-----
-! align="left" | [[Masa]]
-| 1.899×10<sup>27</sup> [[kg]]
-|-----
-! align="left" | [[Densidad (física)|Densidad]] media
-| 1.33 [[gramo|g]]/cm³
-|-----
-! align="left" | [[Gravedad]] superficial
-| 23.12 [[Aceleración|m/s²]]
-|-----
-! align="left" | Período de rotación
-| 9h 55.5m
-|-----
-! align="left" | [[Inclinación axial]]
-| 3.12°
-|-----
-! align="left" | [[Albedo]]
-| 0.52
-|-----
-! align="left" | [[Velocidad de escape]]
-| 59.54 km/s
-|-----
-! align="left" | [[Temperatura]] superficial
-|
-{| cellspacing="0" cellpadding="2" border="0"
-|-----
-! mín.
-! media
-! máx.
-|-----
-| 110 [[Kelvin|K]]&nbsp; || 152 K&nbsp;
-| N/A K
-|}
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características [[atmósfera|atmosféricas]]
-|-----
-! align="left" | [[Presión atmosférica]]
-| 70 [[Pascal (unidad)|kPa]]
-|-----
-| [[Hidrógeno]] || &gt;81%
-|-----
-| [[Helio]] || &gt;17%
-|-----
-| [[Metano]] || 0.1%
-|-----
-| Vapor de [[Agua]] || 0.1%
-|-----
-| [[Amoníaco]] || 0.02%
-|-----
-| [[Etano]] || 0.0002%
-|-----
-| [[Fosfina]] || 0.0001%
-|-----
-| [[Sulfuro de hidrógeno]] || &lt;0.0001%
-|}
-|}
+{{Planeta |
+Tōcāitl           = Tezcatlipocacitlālli/Huēyitzitzimicitlālli |
+Imagen            = Imagen:Jupiter.jpg |
+Distancia_del_sol = 5.20336301 |
+Radio             = 778 330 000 |
+Excentricidad     = 0.04839266 |
+P_o_sideral       = 11a 315d 1.1h |
+P_o_sinódico      = 398.9 días |
+Velocidad_orbital = 13.0697 km/s |
+Inclinación       = 1.30530 |
+Satélites         = 63 |
+Diámetro          = 142,984 |
+Área              = 6.41×10<sup>10</sup> |
+Masa              = 1.899×10<sup>27</sup> |
+Densidad          = 1.33 |
+Gravedad          = 23.12 |
+Rotación          = 9h 55.5m |
+Inclinación_axial = 3.12 |
+Albedo            = 0.52 |
+Velocidad_escape  = 59.54 |
+Temperatura_superficial = '''mín. &nbsp;&nbsp; media &nbsp;&nbsp; máx.'''<br/>110[[K]]&nbsp;152K &nbsp;&nbsp; &nbsp; N/A |
+Atmósfera = [[Hidrógeno]] &gt;81%<br>[[Helio]] &gt;17%<br/>[[Metano]] 0.1%<br/>Vapor de [[Agua]] 0.1%<br/>[[Amoníaco]] 0.02%<br/>[[Etano]] 0.0002%<br/>[[Fosfina]] 0.0001%<br/>[[Sulfuro de hidrógeno]]&lt;0.0001%</table>|
+}}
+
 
 '''Tezcatlipocacitlālli''' ahnōzo '''Huēyitzitzimicitlālli''' (Caxtiltlahtōlli: ''Júpiter'').  Cah inic mācuīlli citlāltzitzimitl Tōnatiuh īchānco.
 
