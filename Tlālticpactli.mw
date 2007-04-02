@@ -1,126 +1,63 @@
-{| id="toc" style="margin-left: 1em; float:right; width: 25em;"
-|+<big><big>'''Tlālticpactli'''</big></big>&nbsp;&nbsp;[[Image:Earth symbol.ant.png|25px]]
-|-
-| align="center" bgcolor="#080602" colspan="2" | [[Image:The Earth seen from Apollo 17.jpg|250px|Una imagen a color vista desde el Apollo 17.]]
-|-
-! bgcolor="#ffc0c0" colspan="2" | Características [[órbita|orbitales]]
-|-
-! align="left" | [[Radio]] medio
-| 149,597,870 [[km]]
-|-
-! align="left" | [[Perihelio]]
-| 0.983 [[UA]]
-|-
-! align="left" | [[Afelio]]
-| 1.017 [[UA]]
-|-
-! align="left" | [[Excentricidad]]
-| 0,0167
-|-
-! align="left" | [[Periodo orbital]]
-| 365,2564 [[ilhuitl]]
-|-
-! align="left" | [[Satélite natural|Satélite]]
-| 1 ([[Mētztli]])
-|-
-! bgcolor="#ffc0c0" colspan="2" | Características físicas
-|-
-! align="left" | [[Diámetro]] [[Línea del Ecuador|ecuatorial]]
-| 12,756.28 [[km]]
-|-
-! align="left" | Diámetro Polar
-| 12,713.50 [[km]]
-|-
-! align="left" | [[#Forma de la Tierra|Diámetro Medio]]
-| 12,742.00 [[km]]
-|-
-! align="left" | [[Superficie]]
-| 510,065,284.702 [[kilómetro cuadrado|km²]]
-|-
-! align="left" | [[Masa]]
-| 5,974×10<sup>24</sup> [[kg]]
-|-
-! align="left" | [[Densidad (física)|Densidad]] media
-| 5.515 [[gramo|g]]/[[centímetro cúbico|cm³]]
-|-
-! align="left" | [[Gravedad]] superficial
-| 9.78 [[Aceleración|m/s²]]
-|-
-! align="left" | [[Velocidad de escape]]
-| 11.186 [[km]]/[[segundo (unidad de tiempo)|s]]
-|-
-! align="left" | [[Período de rotación]]
-| 23.9345 [[hora]]s
-|-
-! align="left" | [[Inclinación axial]]
-| 23.45[[grado|°]]
-|-
-! align="left" | [[Albedo]]
-| 37-39%
-|-
-! align="left" | [[Temperatura]] surperficial
-|
-{| cellspacing="0" cellpadding="2" border="0"
-|-
-! min
-! media
-! max
-|-
-| 182 [[grado Kelvin|K]]
-| 282 K
-| 333 K
-|}
-|-
-| '''[[Presión]] atmosférica'''
-| 101,325 [[Pascal (unidad de presión)|Pa]]
-|-
-! bgcolor="#ffcfc0" colspan="2" | Composición [[atmósfera|atmosférica]]
-|-
-! align="left" | '''[[Nitrógeno]] N<sub>2<sub>'''
-| 78.08%
-|-
-| '''[[Oxígeno]] O<sub>2<sub>'''
-| 20.95%
-|-
-| '''[[Argón]] Ar'''
-| 0.93%
-|-
-| '''[[Dióxido de carbono]] CO<sub>2<sub>'''
-| 355 [[Concentración|ppmv]] (variable)
-|-
-| '''[[Neón]] Ne'''
-| 18.2 ppmv
-|-
-|'''[[Helio]] He'''
-| 5.24 ppmv
-|-
-|'''[[Metano]] CH<sub>4<sub>'''
-| 1.72 ppmv
-|-
-|'''[[Kriptón]] Kr'''
-| 1 ppmv
-|-
-|'''[[Hidrógeno]] H<sub>2<sub>'''
-| 5 ppmv
-|-
-|'''[[Óxido nitroso]] N<sub>2<sub>O'''
-| 0.31 ppmv
-|-
-|'''[[Xenón]] Xe'''
-| 0.08 ppmv
-|-
-|'''[[Monóxido de carbono]] CO'''
-| 0.05 ppmv
-|-
-|'''[[Ozono]] O<sub>3<sub>'''
-| 0.02 - 0.03 ppmv (variable)
-|-
-|'''[[Clorofluorocarburo|Clorofluorocarburos]] CFCs'''
-| 0.2 - 0.3 [[Concentración|ppbv]]
-|-
-|'''vapor de [[ātl]] H<sub>2<sub>O'''
-| <4% (variable) <br />no computable para el aire seco
-|}
+{{Planeta |
+Tōcāitl           = Tlālticpactli |
+Imagen            = Imagen:The Earth seen from Apollo 17.jpg |
+Símbolo           = [[Imagen:Earth symbol.ant.png|15px]] |
+Radio             = 149,597,870 |
+Semieje_mayor     = 149 597 887.5 |
+Semieje_menor     = 149 576 999.826 |
+Perihelio         = 0.983 |
+Afelio            = 1.017 |
+Excentricidad     = 0.0167 |
+Periodo_orbital   = 356.2564 |
+Velocidad_orbital = 30.287 |
+Inclinación       = 0 |
+Satélites         = 1 ([[Mētztli]]) |
+Diámetro_ecuatorial= 12,756.28 |
+Diámetro_polar    =  12,713.50|
+Diámetro_medio    = 12,742.00 |
+Área              = 510,065,284.702 |
+Masa              = 5.974×10<sup>24</sup> |
+Densidad          = 5.515 |
+Gravedad          = 9.78 |
+Rotación          = 23.9345 h |
+Inclinación_axial = 23.45 |
+Albedo            = 31 - 32 |
+Velocidad_escape  = 11.186 |
+mín               = 182  |
+media             = 282 |
+máx               = 333 |
+Presión           = 101,325 |
+componente1       = [[Ehēcatehuiltic]] |
+componente2       = [[Ehēcayoh]] |
+componente3       = [[Argón]] |
+componente4       = [[Dióxido de tecolli]] |
+componente5       = [[Yancuīquehēcatl]] |
+componente6       = [[Tōnatiuyoh]]|
+componente7       = [[Metano]] |
+componente8       = [[Kriptón]] |
+componente9       = [[Āyōcoxqui]] |
+componente10      = [[Óxido nitroso]] |
+componente11      = [[Xenón]] |
+componente12      = [[Monóxido de tecolli]] |
+componente13      = [[Ozono]] |
+componente14      = [[Clorofluorocarburos]] |
+componente15      = [[Āpōctli]]|
+porcentaje1       = 78.08% |
+porcentaje2       = 20.95% |
+porcentaje3       = 0.93% |
+porcentaje4       = 355 [[ppmv]] (variable) |
+porcentaje5       = 18.2 ppmv |
+porcentaje6       = 5.24 ppmv |
+porcentaje7       = 1.72 ppmv |
+porcentaje8       = 1 ppmv |
+porcentaje9       = 5 ppmv |
+porcentaje10      = 0.31 ppmv |
+porcentaje11      = 0.08 ppmv |
+porcentaje12      = 0.05 ppmv |
+porcentaje13      = 0.02 - 0.03 (variable) |
+porcentaje14      = 0.02 - 0.03 [[ppbv]] |
+porcentaje15      = <4% (variable), no computable para aire seco |
+}}
 
 '''Tlālticpactli''', [[tōnatiuh īchān]] inic ētetl [[citlāltzitzimitl]].
 [[Imagen:Whole world - land and oceans_12000.jpg|400px|thumb|left|Cemānāhuactli īmachiyo.]]
