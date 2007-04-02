@@ -21,8 +21,22 @@ Velocidad_escape  = 59.54 |
 mín               = 110K |
 media             = 152K |
 máx               = N/A |
-Componentes       = [[Hidrógeno]]<br/>[[Helio]]<br/>[[Metano]]<br/>Vapor de [[Agua]]<br/>[[Amoníaco]]<br/>[[Etano]]<br/>[[Fosfina]]<br/>[[Sulfuro de hidrógeno]]|
-Porcentajes        = &gt;81%<br>&gt;17%<br/>0.1%<br/>0.1%<br/>0.02%<br/>0.0002%<br/>0.0001%</br>&lt;0.0001%|
+componente1       = [[Hidrógeno]] |
+componente2       = [[Helio]] |
+componente3       = [[Metano]] |
+componente4       = Vapor de [[Agua]] |
+componente5       = [[Amoníaco]] |
+componente6       = [[Etano]] |
+componente7       = [[Fosfina]] |
+componente8       = [[Sulfuro de hidrógeno]] |
+porcentaje1       = &gt;81% |
+porcentaje2       = &gt;17% |
+porcentaje3       = 0.1% |
+porcentaje4       = 0.1% |
+porcentaje5       = 0.02% |
+porcentaje6       = 0.0002% |
+porcentaje7       = 0.0001% |
+porcentaje8       = &lt;0.0001% |
 }}
 
 
