@@ -1,6 +1,7 @@
 {{Planeta |
-Tōcāitl           = Tezcatlipocacitlālli/Huēyitzitzimicitlālli |
+Tōcāitl           = Tezcatlipocacitlālli / Huēyitzitzimicitlālli |
 Imagen            = Imagen:Jupiter.jpg |
+Símbolo           = [[Imagen:Jupiter symbol.svg|15px]] |
 Distancia_del_sol = 5.20336301 |
 Radio             = 778 330 000 |
 Excentricidad     = 0.04839266 |
@@ -18,9 +19,10 @@ Rotación          = 9h 55.5m |
 Inclinación_axial = 3.12 |
 Albedo            = 0.52 |
 Velocidad_escape  = 59.54 |
-mín               = 110K |
-media             = 152K |
+mín               = 110 |
+media             = 152 |
 máx               = N/A |
+Presión           = 70 |
 componente1       = [[Āyōcoxqui]] |
 componente2       = [[Tōnatiuyoh]] |
 componente3       = [[Metano]] |
