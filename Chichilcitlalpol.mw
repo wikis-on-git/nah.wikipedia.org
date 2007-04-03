@@ -1,99 +1,42 @@
-{| border="0" align="right" style="margin-left:1em"
-|-----
-|
-{| id="toc" style="margin-left: 1em; float:right; width: 25em;"
-|+ <font size="+1">'''Chīchīlcitlālli'''</font>
-|-----
-! bgcolor="black" colspan="2" | [[Imagen:Mars Valles Marineris.jpeg|210px|center|Chīchīlcitlālli]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características [[órbita|orbitales]]
-|-----
-! align="left" | [[Radio (geometría)|Radio]] medio
-| 227.936.640 [[km]]
-|-----
-! align="left" | [[Excentricidad]]
-| 0,09341233
-|-----
-! align="left" | [[Período orbital]] (sideral)
-| 686,98 días
-|-----
-! align="left" | [[Período orbital]] (sinódico)
-| 779,95 días
-|-----
-! align="left" | [[Velocidad orbital]] media
-| 24,1309 km/s
-|-----
-! align="left" | [[Inclinación]]
-| 1,85061°
-|-----
-! align="left" | Número de [[satélite natural|satélites]]
-| 2
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características físicas
-|-----
-! align="left" | [[Diámetro]] [[Línea del Ecuador|ecuatorial]]
-| 6.794,4 km
-|-----
-! align="left" | [[Área (Geometría)|Área]] superficial
-| [[1 E14 m2|144 millones]] [[kilómetro cuadrado|km²]]
-|-----
-! align="left" | [[Masa]]
-| 6,4191 [[Notación científica|×]] 10<sup>23</sup> [[kg]]
-|-----
-! align="left" | [[Densidad (física)|Densidad]] media
-| 3,94 g/cm³
-|-----
-! align="left" | [[Gravedad]] superficial
-| 3,71 [[Aceleración|m/s²]]
-|-----
-! align="left" | Período de rotación
-| 24,6229 horas
-|-----
-! align="left" | [[Inclinación axial]]
-| 25,19°
-|-----
-! align="left" | [[Albedo]]
-| 0,15
-|-----
-! align="left" | [[Velocidad de escape]]
-| 5,02 km/s
-|-----
-! align="left" | [[Temperatura]] superficial
-|
-{| cellspacing="0" cellpadding="2" border="0"
-|-----
-! mín.
-! media
-! máx.
-|-----
-| 133[[Kelvin|K]] || 210K || 293K
-|}
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características [[atmósfera|atmosféricas]]
-|-----
-! align="left" | [[Presión atmosférica]]
-| 0,7-0,9 [[Pascal|kPa]]
-|-----
-| [[Dióxido de carbono]] || 95,32%
-|-----
-| [[Nitrógeno]] || 2,7%
-|-----
-| [[Argón]] || 1,6%
-|-----
-| [[Oxígeno]] || 0,13%
-|-----
-| [[Monóxido de carbono]] || 0,07%
-|-----
-| Vapor de [[ātl]] || 0,03%
-|-----
-| [[Neón]]<br />
-[[Criptón]]<br />
-[[Xenón]]<br />
-[[Ozono]]
-[[Metano]]
-| Trazas
-|}
-|}
+{{Planeta |
+Tōcāitl           = Chīchīlcitlālli / Huitzilopochcitlālli |
+Imagen            = Imagen:Mars Valles Marineris.jpeg|
+Símbolo           = [[Imagen:Mars symbol.svg|15px]] |
+Radio             = 227 936 640 |
+Excentricidad     = 0.09341233 |
+P_o_sideral       = 686.98 d |
+P_o_sinódico      = 779.95 d |
+Velocidad_orbital = 24.1309 |
+Inclinación       = 1.85061 |
+Satélites         = 2 |
+Diámetro          = 6,794.4 |
+Área              = 144 millones |
+Masa              = 6.4191×10<sup>23</sup> |
+Densidad          = 3.94 |
+Gravedad          = 3.71 |
+Rotación          = 24.6229 h |
+Inclinación_axial = 25.19 |
+Albedo            = 0.15 |
+Velocidad_escape  = 5.02 |
+mín               = 133  |
+media             = 210 |
+máx               = 293 |
+Presión           = 0.7 - 0.9 |
+componente1       = [[Dióxido de tecolli]] |
+componente2       = [[Ehēcatehuiltic]] |
+componente3       = [[Argón]] |
+componente4       = [[Ehēcayoh]] |
+componente5       = [[Monóxido de tecolli]] |
+componente6       = [[Āpōctli]]|
+componente7       = [[Yancuīquehēcatl]]<br/>[[Kriptón]]<br/>[[Xenón]]<br/>[[Ozono]]<br/>[[Metano]] |
+porcentaje1       = 95.32% |
+porcentaje2       = 2.7% |
+porcentaje3       = 1.6% |
+porcentaje4       = 0.13% |
+porcentaje5       = 0.07% |
+porcentaje6       = 0.03% |
+porcentaje7       = Trazas |
+}}
 
 '''Chīchīlcitlālli''' ahnōzo '''Huitzilopochcitlālli''' (Caxtiltlahtōlli: ''Marte''). Cah inic nāhui citlāltzitzimitl Tōnatiuh īchānco.
 
