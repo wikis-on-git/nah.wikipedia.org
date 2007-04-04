@@ -1,107 +1,45 @@
-{| border="0" align="right" style="margin-left:1em"
-|-----
-|
-{| id="toc" style="margin-left: 1em; float:right; width: 25em;"
-|+ <font size="+1">'''Ilhuicateōcitlālli'''</font>
-|-----
-| bgcolor="#040404" align="center" colspan="2" | [[Imagen:Uranus Voyager 2.jpg|230px]]
-|-----
-! bgcolor="#c0ffff" colspan="2" | Descubrimiento
-|-----
-! align="left" | Descubierto por
-| [[William Herschel]]
-|-----
-! align="left" | Descubierto en
-| [[13 de marzo]] de [[1781]]
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características [[órbita|orbitales]]
-|-----
-! align="left" | [[Radio (geometría)|Radio]] medio
-| 2 870 972 200 [[km]]
-|-----
-! align="left" | [[Excentricidad]]
-| 0.04716771
-|-----
-! align="left" | [[Período orbital]] (sideral)
-| [[1 E9 s|84a 3d 15.66h]]
-|-----
-! align="left" | [[Período orbital]] (sinódico)
-| 369.7 días
-|-----
-! align="left" | [[Velocidad orbital]] media
-| 6.8352 km/s
-|-----
-! align="left" | [[Inclinación]]
-| 0.76986°
-|-----
-! align="left" | Número de [[satélite natural|satélites]]
-| 29
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características físicas
-|-----
-! align="left" | [[Diámetro]] [[Línea del ecuador|ecuatorial]]
-| [[1 E7 m|51,118]] km
-|-----
-! align="left" | [[Área (Geometría)|Área]] superficial
-| [[1 E15 km²|8 130 000 000]] [[kilómetro cuadrado|km²]]
-|-----
-! align="left" | [[Masa]]
-| 8.686×10<sup>25</sup> [[kilogramo|kg]]
-|-----
-! align="left" | [[Densidad (física)|Densidad]] media
-| 1.29 g/cm³
-|-----
-! align="left" | [[Gravedad]] superficial
-| 8.69 [[Aceleración|m/s²]]
-|-----
-! align="left" | Período de rotación
-| -17h 14m<br />(movimiento retrógrado)
-|-----
-! align="left" | [[Inclinación axial]]
-| 97.86°
-|-----
-! align="left" | [[Albedo]]
-| 0.51
-|-----
-! align="left" | [[Velocidad de escape]]
-| 21.29 km/s
-|-----
-! align="left" | [[Temperatura|Temp.]] sobre nubes
-| 55 K
-|-----
-! align="left" | [[Temperatura]] superficial
-|
-{| cellspacing="0" cellpadding="2" border="0" width="100"%
-|-----
-! mín.
-! media
-! máx.
-
-|-----
-| 59 [[Kelvin|K]] || [[1 E1 K|68 K]] || N/A K
-|}
-|-----
-! bgcolor="#c0ffff" colspan="2" | Características [[atmósfera|atmosféricas]]
-|-----
-! align="left" | [[Presión atmosférica]]
-| Varía con la profundidad
-|-----
-| [[Hidrógeno]] || 83%
-|-----
-| [[Helio]] || 15%
-|-----
-| [[Metano]] || 1.99%
-|-----
-| [[Amoníaco]] || 0.01%
-|-----
-| [[Etano]] || 0.00025%
-|-----
-| [[Acetileno]] || 0.00001%
-|-----
-| [[Monóxido de carbono]]<br />[[Sulfuro de hidrógeno]]
-| Trazas
-|}
-|}
+{{Planeta |
+Tōcāitl           = Ilhuicateōcitlālli |
+Imagen            = Imagen:Uranus Voyager 2.jpg |
+Símbolo           = [[Imagen:Uranus symbol.svg|15px]] |
+Descubridor       = [[William Herschel]] |
+Fecha             = [[13 de marzo]] de [[1781]]
+Radio             = 2 870 972 200  |
+Excentricidad     = 0.04716771 |
+P_o_sideral       = 84a 3d 15.66h |
+P_o_sinódico      = 369.7  |
+Velocidad_orbital = 6.8352 |
+Inclinación       = 0.76986 |
+Satélites         = 29 |
+Diámetro          = 51,118 |
+Área              = 8 130 000 000 |
+Masa              = 8.686×10<sup>25</sup> |
+Densidad          = 1.29 |
+Gravedad          = 8.69 |
+Rotación          = -17h 14m |
+Inclinación_axial = 97.86 |
+Albedo            = 0.51 |
+Velocidad_escape  = 21.29 |
+Temperatura_nubes = 55 |
+mín               = 59  |
+media             = 68 |
+máx               = N/A |
+Presión           = Varía con la profundidad |
+componente1       = [[Āyōcoxqui]] |
+componente2       = [[Tōnatiuyoh]] |
+componente3       = [[Metano]] |
+componente4       = [[Amoniaco]] |
+componente5       = [[Etano]]|
+componente6       = [[Acetileno]] |
+componente7       = [[Monóxido de tecolli]]<br/>[[Sulfuro de Āyōcoxqui]] |
+porcentaje1       = 83% |
+porcentaje2       = 15% |
+porcentaje3       = 1.99% |
+porcentaje4       = 0.01% |
+porcentaje5       = 0.00025% |
+porcentaje6       = 0.00001% |
+porcentaje7       = Trazas |
+}}
 
 '''Ilhuicateōcitlālli''', '''Ilhuicatēcacitlālli''' ahnōzo  '''Xiuhtēuccitlālli''' (Caxtiltlahtōlli: ''Urano''). Cah inic chicōme citlāltzitzimitl Tōnatiuh īchānco.
 
