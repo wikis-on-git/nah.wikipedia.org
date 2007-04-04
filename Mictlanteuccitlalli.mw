@@ -1,90 +1,38 @@
-{| border="0" align="right" style="margin-left:1em"
-|-----
-|
-{| id="toc" style="margin-left: 1em; float:right; width: 25em;"
-|+ <font size="+1">'''(134340) Mictlāntēuccitlālli'''</font>
-|-----
-! bgcolor="black" colspan="2" |
-[[Imagen:Pluto and charon.jpg|250px|Mictlāntēuccitlālli īhuān Caronte]]
-|-----
-| align="center" colspan="2" | <sup>Mictlāntēuccitlālli īhuān Caronte</sup>
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características [[órbita|orbitales]]
-|-----
-! align="left" | [[Radio]] medio
-| 5,91352·10<sup>9</sup> [[Kilómetro|km]]
-|-----
-! align="left" | [[Excentricidad]]
-| 0,24880766
-|-----
-! align="left" | [[Período orbital]] (sideral)
-| 248a 197d 5,5h
-|-----
-! align="left" | [[Período orbital]] (sinódico)
-| 366,7 días
-|-----
-! align="left" | [[Velocidad orbital]] media
-| 4749 [[Metro por segundo|m/s]]
-|-----
-! align="left" | [[Inclinación]]
-| 17,14175[[Grado sexagesimal|°]] (0,3 [[Radián|rad]])
-|-----
-! align="left" | Número de [[satélite natural|satélite]]s
-| 3
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características físicas
-|-----
-! align="left" | [[Diámetro]] [[Línea del ecuador|ecuatorial]]
-| 2302 km
-|-----
-! align="left" | [[Área (Geometría)|Área]] superficial
-| 17 000 000 [[kilómetro cuadrado|km<sup>2]]</sup>
-|-----
-! align="left" | [[Masa]]
-| 1,29[[Notación científica|·]]10<sup>22</sup> kg
-|-----
-! align="left" | [[Densidad (física)|Densidad]] media
-| 2050 [[Kilogramo por metro cúbico|kg/m³]]
-|-----
-! align="left" | [[Gravedad]] superficial
-| 0,6 [[Metro por segundo al cuadrado|m/s²]]
-|-----
-! align="left" | Período de rotación
-| 6d 9h 17,6m
-|-----
-! align="left" | [[Inclinación axial]]
-| 119,61°
-|-----
-! align="left" | [[Albedo]]
-| 0,3
-|-----
-! align="left" | [[Velocidad de escape]]
-| 1200 m/s
-|-----
-! align="left" | [[Temperatura]] superficial
-|
-{| cellspacing="0" cellpadding="2" border="0"
-|-----
-! mín.
-! media
-! máx.
-|-----
-| 33 [[Kelvin|K]]|| 44 K|| 55 K
-|}
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Características [[atmósfera|atmosféricas]]
-|-----
-! align="left" | [[Presión atmosférica]]
-| 0 - 0,01 [[Pascal (unidad de presión)|kPa]]
-|-----
-| [[Nitrógeno]] || 90%
-|-----
-| [[Metano]] || 10%
-|}
-|}
+{{Planeta |
+Tōcāitl           = (134340)  Mictlāntēuccitlālli |
+Imagen            = Imagen:Pluto.jpg |
+Símbolo           = [[Imagen:Pluto symbol.svg|15px]] |
+Radio             = 5.91352×10<sup>9</sup>  |
+Excentricidad     = 0.24880766 |
+P_o_sideral       = 248a 197d 5.5h |
+P_o_sinódico      = 366.7  |
+Velocidad_orbital = 4,796 |
+Inclinación       = 17.14175 |
+Satélites         = 3 |
+Diámetro          = 2,302 |
+Área              = 17 000 000 |
+Masa              = 1.29×10<sup>22</sup> |
+Densidad          = 2.03±0.06 |
+Gravedad          = 0.6 |
+Rotación          = 6d 9h 17.6m |
+Inclinación_axial = 119.61 |
+Albedo            = 0.3 |
+Velocidad_escape  = 1.2 |
+mín               = 33 |
+media             = 44 |
+máx               = 55 |
+Presión           = 0 - 0.01 |
+componente1       = [[Ehēcatehuiltic]] |
+componente2       = [[Metano]] |
+porcentaje1       = 90% |
+porcentaje2       = 10% |
+}}
+
 '''Mictlāntēuccitlālli''' ahnōzo '''Mictlāntēcacitlālli''' (Caxtiltlahtōlli: ''Plutón''). Cē tzapameh citlāltzitzimitl.
 
 ==Mictlāntēuccitlālli īhuān Caronte==
+[[Imagen:Pluto and charon.jpg|thumb|250px|left|Mictlāntēuccitlālli īhuān Caronte]]
+
 [[Imagen:Plutoncharon1.jpg|thumb|Mictlāntēuccitlālli īhuān Caronte]]
 
 {{Tōnatiuh īchān‎}}
