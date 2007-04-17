@@ -1,11 +1,8 @@
 {{Ciudad
-|nombre                 = Āltepētl Mēxihco
-|nombre_nativo          = Ciudad de México
-|image                  = Mexico DF City.jpg
-|imagen_sub             = Āltepētl Mēxihco
-|imagen_logo            = Logos.jpg
-|imagen_mapa            = Image:Mexico DF in Mexico.png
-|map_caption            = Location of Mexico City in central Mexico
+|Nombre                 = Āltepētl Mēxihco
+|Nombre_nativo          = Ciudad de México
+|Image                  = Mexico DF City.jpg
+|Image_mapa             = Mexico DF in Mexico.png
 |País                   = [[Mēxihco|<font color="white">Mēxihco]]
 |nickname               = La Ciudad de los Palacios
 |motto                  = 
@@ -14,37 +11,36 @@
 |división3              = 
 |subdivisión1           = 
 |subdivisión2           = [[In caxtōllincē delegaciones]]
-|subdivisión2           = 
-|tipo_gobierno          = [[Āltepētlatxco]]
-|título_dirigente       = [[Jefe de Gobierno ihuic Mēxihco Tēcuācān|Jefe de Gobierno]]
-|dirigente              = [[Marcelo Ebrard]] ({{PRD}})
-|título_dirigente2      =  
-|dirigente2             = 
-|fundación              = c.[[Tlayēti 18]], [[1325]]
-|fundación_nombre       = [[Mēxihco Tenōchtitlān]]
-|área_total             = 1 547{{km2}}
-|área_terrestre         = 
-|área_acuática          = 
-|área_agua_porcentual   = 
-|área_urbana            =
-|área_metropolitana     = 4 986{{km2}}<ref>Área total de la zona metropolitana ihuic Āltepētl Mēxihco.</ref>
-|p_año                  = 2005
-|población_total        = 8 720 916
-|densidad               = 5 741 hab/{{km2}}
-|p_año2                 = 2005
-|población_metrop       = 19 231 829
-|gentilicio             = Āltepēmēxicatl<br>Āltepēmēxihcah
-|zonahoraria            = [[Central Time zone]]
-|utc                    = -6 
-|zonahoraria_DST        = [[Central Daylight Time]]
-|utc_DST                = -5
-|coordenadas            = 19_03_N_99_22_W_ 19°03′ N 99°22′ O
-|elevación              = 2235{{m1}}
-|tipo_cp                = 
-|cp                     = 01000 oc 16999
-|ct                     = +55
-|website                = [http://www.df.gob.mx] 
-|footnotes              = <sup>1</sup> 
+|Subdivisión3           = 
+|Tipo_gobierno          = [[Āltepētlatxco]]
+|Título_dirigente       = [[Jefe de Gobierno ihuic Mēxihco Tēcuācān|Jefe de Gobierno]]
+|Dirigente              = [[Marcelo Ebrard]] ({{PRD}})
+|Título_dirigente2      =  
+|Dirigente2             = 
+|Fundación              = c.[[Tlayēti 18]], [[1325]]
+|Fundación_nombre       = [[Mēxihco Tenōchtitlān]]
+|Área_total             = 1 547{{km2}}
+|Área_terrestre         = 
+|Área_acuática          = 
+|Área_agua_porcentual   = 
+|Área_urbana            =
+|Área_metropolitana     = 4 986{{km2}}<ref>Área total de la zona metropolitana ihuic Āltepētl Mēxihco.</ref>
+|P-año                  = 2005
+|Población_total        = 8 720 916
+|Densidad               = 5 741 hab/{{km2}}
+|P-año2                 = 2005
+|Población_metrop       = 19 231 829
+|Gentilicio             = Āltepēmēxicatl<br>Āltepēmēxihcah
+|Zonahoraria            = [[Central Time zone]]
+|Utc                    = -6 
+|Zonahoraria_DST        = [[Central Daylight Time]]
+|Utc_DST                = -5
+|Coordenadas            = 19_03_N_99_22_W_ 19°03′ N 99°22′ O
+|Elevación              = 2235{{m1}}
+|Tipo_cp                = 
+|Cp                     = 01000 oc 16999
+|Ct                     = +55
+|Website                = [http://www.df.gob.mx] 
 }}
 
 
@@ -55,8 +51,6 @@ Mēxihco inic ōme [[āltepētl]] [[Cemānāhuac]]. Cah in tlācatiyān īca oca
 
 ==Tlahtōllōtl==
 ===Āltepētzintīliztli===
-[[Imagen:Mexico.DF.Chapultepec.02.jpg||thumb|right|In Reforma Huēyi Ohcalli, ahcopa [[Chapoltepēc]] caxtilcalli.]]
-
 [[Aztēcatl]] āltepētlaniah [[Mēxihco Tenōchtitlān]], āltepētzintīliztli [[Tlayēti 18]], [[1325]] īpan cē ānepantlālpan īpan [[ātēzcatl Mētztliapan]]. In āltepētl cah azqui tlapoloax ihcuāc [[Caxtillān|caxtiltēcah]] tēpēhuanih ōhuāllāh, ihuicpa [[1519]] oc [[1521]] xiuhtin. Īpan [[1524]] xihuitl, in caxtiltēcah āltepētlaniah in municipalidad Āltepētl Mēxihco, ītōcā "México Tenustitlan", auh, īpan [[1585]] xihuitl "Ciudad de México".<ref>{{cite web|url=http://www.df.gob.mx/ciudad/historia/3.html|título=Historia de la Ciudad de México|díaacceso=[[Tlaōnti 16]]|añoacceso=[[2007]]}}</ref>
 
 
@@ -101,6 +95,7 @@ In Huēyāltepētini tlacāuhtli Āltepētl Mēxihco cā ōcematic nic:
 |}<br clear="all">
 
 ====Ōmpohualli municipios īpan Mēxihco Tlahtocāyōtl====
+[[Imagen:Mexico.DF.Chapultepec.02.jpg||thumb|right|180px|In Reforma Huēyi Ohcalli, ahcopa [[Chapoltepēc]] caxtilcalli.]]
 {| align="left" cellspacing="8"
 |-
 |width="25%"|
